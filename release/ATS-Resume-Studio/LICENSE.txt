@@ -1,0 +1,53 @@
+================================================================================
+ATS RESUME STUDIO — PERSONAL USE END USER LICENSE AGREEMENT (EULA)
+================================================================================
+
+PRODUCT: ATS Resume Studio (Personal Use License)
+DISTRIBUTION PLATFORM: Gumroad
+EFFECTIVE DATE: September 2026
+
+PLEASE READ THIS LICENSE AGREEMENT CAREFULLY BEFORE USING THIS SOFTWARE. BY
+DOWNLOADING, INSTALLING, COPYING, OR USING THIS SOFTWARE, YOU AGREE TO BE BOUND
+BY THE TERMS OF THIS AGREEMENT.
+
+1. GRANT OF LICENSE
+Under this Personal Use License, the Licensor grants you (one individual buyer)
+a non-exclusive, non-transferable, revocable license to:
+- Run and use the ATS Resume Studio application on your personal computers or devices.
+- Create, edit, and export an unlimited number of resumes and curriculum vitae
+  for your own personal job applications and career advancement.
+
+2. RESTRICTIONS AND PROHIBITIONS
+You expressly agree NOT to:
+- Resell, re-license, rent, lease, sublicense, distribute, share, or transfer the
+  software, source code, templates, or documentation to any third party.
+- Upload the software, source code, or pre-compiled assets to public code
+  repositories (including public GitHub/GitLab repositories), file sharing sites,
+  or publicly accessible websites.
+- Claim ownership, copyright, or authorship of the application codebase, layout
+  engines, or template typography designs.
+- Use the software to provide commercial resume-writing services or paid client
+  deliverables (a separate Commercial & Agency License is required for client work).
+
+3. INTELLECTUAL PROPERTY
+The software, code, algorithms, design templates, documentation, and all
+associated intellectual property rights are and remain the exclusive property of
+the author / Licensor.
+
+4. DISCLAIMER OF OUTCOMES AND WARRANTIES
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+THE LICENSOR EXPRESSLY DISCLAIMS ANY GUARANTEE OF JOB INTERVIEWS, EMPLOYMENT
+OFFERS, HIRING SUCCESS, OR SPECIFIC APPLICANT TRACKING SYSTEM (ATS) COMPLIANCE
+SCORES. EMPLOYER SCREENING DECISIONS DEPEND SOLELY ON EXTERNAL FACTORS, HIRING
+CRITERIA, AND INDIVIDUAL CANDIDATE QUALIFICATIONS OUTSIDE THE LICENSOR'S CONTROL.
+
+5. LIMITATION OF LIABILITY
+IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE,
+ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.
+
+================================================================================

@@ -1,0 +1,47 @@
+ALEXANDER W. MERCER
+San Francisco, CA | (415) 555-9876 | alex.mercer@techfrontier.io | linkedin.com/in/alexmercer | alexmercer.dev
+
+PROFESSIONAL SUMMARY
+Senior Distributed Systems Architect with 12+ years building high-throughput cloud infrastructure.
+Led engineering teams processing over 2.4B events daily at sub-5ms latency across multi-region clusters.
+Domain proficiencies include:
+Go - Kubernetes - Distributed Consensus (Raft) - Kafka - Rust - Linux Kernel Tuning - gRPC - AWS Architecture
+
+PROFESSIONAL EXPERIENCE
+Principal Infrastructure Engineer — CloudScale Technologies, Inc.
+San Francisco, CA | Jan 2021 — Present
+- Architected multi-region event mesh handling 40,000 requests per second with 99.999% availability.
+- Cut AWS infrastructure egress costs by $1.4M annually through binary serialization optimization.
+- Mentored 14 staff engineers and led quarterly systems reliability and architectural reviews.
+
+Senior Backend Engineer — DataPulse Analytics
+Mountain View, CA | Mar 2017 — Dec 2020
+- Built distributed timeseries query engine using Go and Apache Arrow.
+- Reduced p99 query latency from 850ms to 42ms across 10TB daily ingestion datasets.
+- Spearheaded company-wide migration to containerized microservices on Kubernetes.
+
+EDUCATION
+Master of Science in Computer Science — Stanford University
+Stanford, CA | 2017
+Specialization in Distributed Systems & Databases
+
+Bachelor of Science in Electrical Engineering & Computer Science — UC Berkeley
+Berkeley, CA | 2015
+Magna Cum Laude, Tau Beta Pi Honor Society
+
+CERTIFICATIONS & LICENSES
+Certified Kubernetes Administrator (CKA) — Linux Foundation, 2022
+AWS Certified Solutions Architect – Professional — Amazon Web Services, 2023
+
+KEY PROJECTS
+OpenRaft Consensus Engine — Personal Open Source
+- High-performance, memory-safe Raft consensus implementation in Rust.
+- Starred by 3,200+ developers on GitHub and deployed in 4 enterprise production clusters.
+
+AWARDS & HONORS
+First Place — Global Distributed Systems Hackathon, 2022
+CloudScale Excellence in Architecture Award, 2023
+
+PUBLICATIONS & PRESENTATIONS
+"Sub-millisecond State Replication at Hyperscale", ACM Transactions on Computer Systems (2021)
+Keynote: "The Future of Edge Event Fabrics", KubeCon North America (2022)

@@ -1,0 +1,47 @@
+================================================================================
+ATS RESUME STUDIO — DEVELOPER & AGENCY COMMERCIAL SOURCE CODE LICENSE
+================================================================================
+
+PRODUCT: ATS Resume Studio (Developer & Agency Source Code License)
+DISTRIBUTION PLATFORM: Gumroad
+EFFECTIVE DATE: September 2026
+
+THIS AGREEMENT GOVERNS THE COMMERCIAL USE OF THE ATS RESUME STUDIO SOURCE CODE
+AND ASSETS PURCHASED UNDER THE COMMERCIAL/AGENCY TIER ON GUMROAD.
+
+1. PERMITTED COMMERCIAL RIGHTS
+Under this Commercial License, the Licensor grants you (an individual developer,
+freelancer, recruiting firm, educational institution, or agency) a non-exclusive,
+perpetual, worldwide license to:
+- Access, inspect, modify, customize, and extend the full application source code.
+- Self-host private or internal instances of the application on your own servers,
+  domain names, cloud infrastructure, or corporate intranet.
+- Remove default branding or customize the branding, colors, and layout for your
+  organization.
+- Use the software to write, format, optimize, and export resumes for an unlimited
+  number of paying clients, job seekers, or coaching candidates.
+
+2. RESTRICTIONS AND LIMITATIONS
+You expressly agree NOT to:
+- Resell, redistribute, sublicense, or publicly distribute the unmodified application
+  source code or build files as a standalone competing software product, template
+  pack, or marketplace asset.
+- Open-source the application code or publish it in public code repositories
+  (e.g., public GitHub repositories).
+- Sub-license or resell the commercial license rights to third-party developers.
+
+3. INTELLECTUAL PROPERTY & OWNERSHIP
+The underlying software architecture, algorithms, and core design templates
+remain the intellectual property of the Licensor. You own the custom modifications
+and extensions you develop on top of the codebase.
+
+4. DISCLAIMER OF OUTCOMES AND WARRANTIES
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. THE LICENSOR EXPRESSLY DISCLAIMS ANY GUARANTEE OF RECRUITING METRICS,
+CANDIDATE HIRING RATES, INTERVIEW OFFERS, OR SPECIFIC ATS PARSER SCORES.
+
+5. LIMITATION OF LIABILITY
+IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY COMMERCIAL LOSS, LOST REVENUE,
+OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OF THIS CODEBASE.
+
+================================================================================
