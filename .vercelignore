@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+
+# Local distribution package (Gumroad)
+release/
+
+# Test scripts
+scratch/
+
+# Internal documentation
+documentation/
+
+# Local launchers (not needed on Vercel)
+serve.py
+serve.js
+start-mac.command
+start-windows.bat
+
+# Binary archives and reference files
+*.zip
+*.mht
+eng.traineddata
+
+# Gumroad listing
+GUMROAD-LISTING.md
+ONBOARDING-GUIDE.md
