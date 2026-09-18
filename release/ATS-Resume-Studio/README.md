@@ -35,6 +35,13 @@ Open [http://localhost:3000](http://localhost:3000) for the marketing landing pa
 
 ---
 
+## Live Hosted Application
+
+- **Production URL:** [https://resumegenerator-chotunoushaad.vercel.app](https://resumegenerator-chotunoushaad.vercel.app)
+- **Deployment URL:** [https://resumegenerator-cvgr087hz-chotunoushaad.vercel.app](https://resumegenerator-cvgr087hz-chotunoushaad.vercel.app)
+
+---
+
 ## Deploy to Vercel
 
 The fastest way to deploy ATS Resume Studio publicly:

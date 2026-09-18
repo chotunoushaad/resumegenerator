@@ -31,13 +31,26 @@ This is the easiest method and sets up automatic deployments on every push.
 
 ### Step 4 — Access Your Site
 
-Once the build completes (typically 1–2 minutes), Vercel will provide a URL like:
+Your live application is deployed at:
 
 ```
-https://resumegenerator-abc123.vercel.app
+https://resumegenerator-cvgr087hz-chotunoushaad.vercel.app
+https://resumegenerator-chotunoushaad.vercel.app
 ```
 
 You can also add a custom domain from **Settings → Domains**.
+
+### Important: Making the Site Publicly Accessible (Disabling Vercel Authentication)
+
+If visitors see a Vercel login screen when visiting the URL, **Deployment Protection (Vercel Authentication)** is active on your Vercel project:
+
+1. Go to your Vercel dashboard at [vercel.com](https://vercel.com).
+2. Click on the **resumegenerator** project.
+3. Go to **Settings** → **Deployment Protection**.
+4. Under **Vercel Authentication**, select **Disabled** (or choose "Only Preview Deployments" so Production is fully public).
+5. Click **Save**.
+
+Once saved, anyone can immediately access the ATS Resume Studio app without needing a Vercel account.
 
 ---
 
