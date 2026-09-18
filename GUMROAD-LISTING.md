@@ -1,94 +1,100 @@
-# Gumroad Product Listing: ATS Resume Studio
+# Gumroad Product Listing: ATS Resume Studio — Source Code License
 
 ---
 
 ## 1. Product Title
-**ATS Resume Studio — The Private, Subscription-Free Resume Builder**
+**ATS Resume Studio — Source Code & Commercial License**
 
 ---
 
 ## 2. Product Subtitle
-*Create a polished, ATS-conscious application-ready resume without monthly subscriptions or AI accounts. 12 editorial templates, in-browser DOCX/PDF/TXT import, selectable vector PDF, and Word-compatible RTF export.*
+*Full Next.js + TypeScript source code for the privacy-first resume builder. Self-host, customize templates, remove branding, and build resume services for clients. The web app is free to use at atsresumestudio.vercel.app — this is the source code license.*
 
 ---
 
 ## 3. Short Product Description
-Stop getting silently filtered out by automated applicant tracking systems (ATS) because of multi-column tables, graphics, and icon templates. ATS Resume Studio runs **100% in your browser with zero AI/API fees, zero monthly subscriptions, and zero cloud uploads**. Import your existing resume from Word (.docx), PDF, or TXT, refine it with our reorderable editor, apply 12 editorial templates, and export clean, ATS-conscious vector PDF, Word-compatible RTF, and Microsoft Word (.docx) files.
+**The web app is free.** Use ATS Resume Studio at no cost on our hosted site — no account, no subscription, no paywall. Your resume never leaves your browser.
+
+**This Gumroad product is the full source code license** for developers, agencies, career coaches, and entrepreneurs who want to self-host, customize, white-label, or build client-facing resume services.
 
 ---
 
 ## 4. Long-Form Sales Description (Gumroad Description Box)
 
-### The Hidden Subscription Trap in Resume Builders
-If you’ve ever tried an online resume builder, you know how frustrating the process is:
-1. You spend 45 minutes entering your employment history.
-2. You click "Download" only to be hit with a mandatory credit card screen.
-3. You get charged **\$25–\$35 every month**, long after your job hunt is over.
-4. Or worse: you use an AI resume generator that invents fake accomplishments and requires expensive API tokens.
+### The Free Resume Builder That Respects Your Privacy
+ATS Resume Studio is a **100% in-browser resume builder** — no AI APIs, no cloud uploads, no subscriptions. It runs entirely in your web browser using JavaScript. Your resume files and personal data never leave your device.
 
-### The Antidote: 100% In-Browser, Free Forever, Zero AI Costs
-**ATS Resume Studio** was built for job seekers who want dignity, design polish, and absolute privacy.
+**You can use the app for free** at our public hosted site. There is no paywall, no account creation, and no feature restrictions.
 
-- **Zero Subscriptions:** Buy once or run locally. No recurring credit card fees, no account creation, no paywalls.
-- **Zero Cloud Uploads:** Your resume never leaves your computer. We decode `.docx`, `.pdf`, and `.txt` files directly in your browser's local memory using client-side JavaScript.
-- **Zero Hallucinated AI:** This is not an AI resume writer that invents fake skills or hallucinated metrics. It is an intelligent, deterministic layout and formatting engine that organizes your real career history.
+### So What's This Gumroad Product?
 
----
+This is the **complete, production-ready source code** with a commercial license. You're buying the right to:
 
-### Key Features
+- **Self-host on your own domain** — Run it on Vercel, Netlify, Cloudflare Pages, or any static host.
+- **Remove branding** — Replace "ATS Resume Studio" with your own company name and logo.
+- **Customize templates** — Modify the 12 included templates or create new ones for specific industries.
+- **Build client services** — Use it internally at your agency or career coaching practice to format resumes for paying clients.
+- **White-label** — Embed the builder into your existing SaaS platform or website.
 
-#### 1. In-Browser Resume Import (.docx, .pdf, .txt)
-Drop your existing resume file into the app. Using client-side engines (Mammoth.js and PDF.js), the text is extracted locally and structured into:
-- Full Name & Contact Details (Phone, Email, Location, LinkedIn, Website)
-- Professional Summary & Highlights
-- Core Skills & Proficiencies
-- Work History (Titles, Companies, Locations, Dates, Accomplishment Bullets)
-- Education (Degrees, Universities, Honors)
-- Certifications, Projects, Awards, and Academic Publications
+### What's Included
 
-#### 2. "Review Uncategorized Text" Safety Net
-If your imported resume has unique sections (such as Volunteer Work, Military Experience, or Languages), nothing is lost or deleted. Unmatched text is placed into a dedicated review panel so you can easily copy and paste it into your desired sections.
+| Item | Description |
+| :--- | :--- |
+| **Full Source Code** | Next.js 14 + TypeScript + Tailwind CSS project with all components, templates, parsers, and exporters |
+| **12 ATS Templates** | Corporate, Tech, Creative, Healthcare, Academic, Trades — 2 variants each |
+| **File Import Engine** | In-browser DOCX (Mammoth.js), PDF (PDF.js), TXT, and image OCR (Tesseract.js WebAssembly) |
+| **Triple Export** | Vector PDF, Word-compatible RTF, and true Microsoft Word .docx |
+| **On-Device OCR** | Tesseract.js WebAssembly engine with offline English language data (~3 MB) for scanning resume screenshots and image-only PDFs |
+| **Deployment Guide** | Step-by-step instructions for Vercel, Netlify, and local hosting |
+| **Commercial License** | Self-host, rebrand, and use for client work |
 
-#### 3. Reorderable Manual Editor
-Total control over your resume hierarchy:
-- Move positions, degrees, and bullets up or down with one click.
-- Automatic draft saving to your browser's local storage—close your tab and come back anytime.
-- One-click "Start from Blank" and "Clear My Data" controls.
+### Key Technical Details
 
-#### 4. 12 ATS-Conscious Templates (6 Verticals × 2 Variants)
-- **Corporate & Executive:** *The Boardroom* & *The Partner*
-- **Tech & Engineering:** *The Builder* & *The Architect*
-- **Creative & Marketing:** *The Editorial* & *The Studio*
-- **Healthcare & Education:** *The Practitioner* & *The Educator*
-- **Academic & Research:** *The Scholar* & *The Researcher*
-- **Trades & Service:** *The Operator* & *The Foreman*
-
-#### 5. Triple Format Exports
-- **Selectable Vector-Text PDF:** Standard 8.5″ × 11″ US Letter dimensions, embedded Google Fonts, clean page breaks, and 100% copy-pasteable text for ATS screeners.
-- **Word-Compatible RTF (.rtf):** Opens natively in Microsoft Word, Google Docs, Apple Pages, and LibreOffice with standard tab stops instead of layout tables.
-- **True Word (.docx):** Clean OpenXML document output with styled headings and bullet points.
+- **Zero backend required** — Deploys as a static Next.js app on any CDN
+- **Zero API keys** — No OpenAI, Anthropic, Gemini, or paid service dependencies
+- **Zero recurring costs** — Host on Vercel's free tier indefinitely
+- **Privacy by architecture** — All parsing, OCR, editing, and exporting happens in the browser's JavaScript runtime. There are no server-side routes, no database, and no telemetry.
 
 ---
 
-## 5. Pricing & Licensing Tiers
+## 5. Pricing
 
-| Tier | Price | Access & Rights |
+| Tier | Price | What You Get |
 | :--- | :--- | :--- |
-| **Personal Use License** | **\$19** *(one-time)* | Pre-compiled static application, 1-click launchers (Mac/Windows), sample test resumes, personal resume creation rights. |
-| **Developer & Agency License** | **\$49** *(one-time)* | Everything in Personal + full Next.js 14 + Tailwind + TypeScript source code. Self-host internally, remove branding, format resumes for paying clients. |
+| **Source Code + Commercial License** | **\$29** *(one-time)* | Full Next.js source code, 12 template designs, file import engine (DOCX/PDF/TXT/image OCR), triple export (PDF/RTF/DOCX), deployment guide, commercial use rights, white-label rights, unlimited self-hosted deployments. |
 
 ---
 
-## 6. Frequently Asked Questions
+## 6. Important Note About the Free Public App
 
-**Does this software use AI or send my resume to OpenAI or Anthropic?**
-No. This software is completely AI-free and API-free. It operates 100% locally in your browser using deterministic JavaScript rules. No external AI APIs are called, and no customer data is ever sent across the network.
+> **The web application at our hosted URL is free and unrestricted.** Anyone can use it to create, edit, and export resumes without paying. There is no login, no paywall, and no feature gating.
+>
+> **This Gumroad product provides the source code and the legal right to self-host, customize, and commercially redistribute.** If you are a job seeker who simply wants to format a resume, use the free hosted app — you do not need to purchase this product.
 
-**How are these templates designed for Applicant Tracking Systems (ATS)?**
-Every template uses a strict single-column structure with standard headings and selectable text. We intentionally avoid sidebars, floating graphics, and multi-column tables that scramble automated ATS parsers like Workday, Taleo, and Greenhouse. (Note: While templates are engineered to maximize ATS readability, no tool can guarantee interview invitations, employment offers, or specific ATS scores, as hiring decisions depend entirely on employer criteria and qualifications.)
+---
+
+## 7. Frequently Asked Questions
+
+**Is the web app really free? What's the catch?**
+Yes, the hosted web app is 100% free with no restrictions. There is no catch. The Gumroad product is for people who want the source code to self-host, customize, or use commercially.
+
+**Does this use AI or send my resume to OpenAI/Anthropic?**
+No. The app is completely AI-free and API-free. It uses deterministic JavaScript rules to parse resume text. No external APIs are called.
+
+**Can I self-host this on my own domain?**
+Yes, that's the primary purpose of this product. Deploy to Vercel, Netlify, Cloudflare Pages, or any static hosting provider. The included deployment guide covers Vercel step-by-step.
+
+**Can I remove the branding and use my own company name?**
+Yes. The commercial license includes white-label rights.
+
+**Can I use this to format resumes for my career coaching clients?**
+Yes. The commercial license covers client-facing use.
 
 **Can it import scanned or image-only PDFs?**
-In-browser extraction requires an embedded text layer. Scanned photocopies or image-only PDFs do not have text layers; for those, simply copy and paste the plain text or upload a Word `.docx` file.
+Yes. The app includes Tesseract.js (a WebAssembly OCR engine) that runs entirely in the browser. It can recognize text from PNG, JPG, and WEBP resume screenshots, as well as scanned PDF pages. All OCR processing happens on the user's device — no external OCR service is contacted.
 
 **How does local draft saving work?**
-The app automatically saves your work-in-progress to your browser's local storage (`localStorage`). Your data never touches a server. You can click "Clear Data" at any time to wipe everything.
+The app saves work-in-progress to the browser's localStorage. No server is involved. Users can click "Clear Data" to wipe everything.
+
+**What tech stack is this built on?**
+Next.js 14, React 18, TypeScript, Tailwind CSS, Mammoth.js (DOCX extraction), PDF.js (PDF text extraction), Tesseract.js (on-device OCR), and the docx npm library (Word export).

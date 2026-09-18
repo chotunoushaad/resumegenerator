@@ -48,7 +48,7 @@ export default function LandingPage() {
     },
     {
       q: 'What happens to my uploaded resume files?',
-      a: 'Nothing leaves your computer. We use browser-native libraries (Mammoth.js for DOCX and PDF.js for PDF) to extract text directly in your browser memory. No files, personal contact information, or employment records are uploaded to any server.',
+      a: 'Nothing leaves your device. We use browser-native libraries (Mammoth.js for DOCX, PDF.js for PDF, and Tesseract.js for image OCR) to extract text directly in your browser memory. Even screenshot images and scanned PDFs are processed using on-device text recognition — no files, personal contact information, or employment records are ever uploaded to any server.',
     },
     {
       q: 'What export formats do you support?',
@@ -117,7 +117,7 @@ export default function LandingPage() {
           </h1>
 
           <p className="text-stone-600 max-w-2xl mx-auto text-base sm:text-lg leading-relaxed font-sans">
-            Import your existing resume (.docx, .pdf, or .txt) directly in your browser. Organize it with pure single-column typography, apply 12 editorial ATS styles, and download editable Word and vector PDF files.
+            Import your existing resume (.docx, .pdf, .txt, or screenshot image) directly in your browser. Organize it with pure single-column typography, apply 12 editorial ATS styles, and download editable Word and vector PDF files.
           </p>
 
           <div className="pt-4 flex flex-col sm:flex-row items-center justify-center gap-3.5">
@@ -176,7 +176,7 @@ export default function LandingPage() {
                 1. Import or Type
               </h3>
               <p className="text-xs text-stone-600 leading-relaxed font-sans">
-                Drag and drop your existing .docx, .pdf, or .txt file, or start from a blank form.
+                Drag and drop your existing .docx, .pdf, .txt, or resume screenshot (PNG, JPG) — or start from a blank form.
               </p>
             </div>
 
