@@ -8,7 +8,7 @@
 ---
 
 ## 2. Product Subtitle
-*Full Next.js + TypeScript source code for the privacy-first resume builder. Self-host, customize templates, remove branding, and build resume services for clients. The web app is free to use at atsresumestudio.vercel.app — this is the source code license.*
+*Full Next.js + TypeScript source code for the privacy-first resume builder. Self-host, customize templates, remove branding, and build resume services for clients. The web app is free to use at resumegenerator-chotunoushaad.vercel.app — this is the source code license.*
 
 ---
 
