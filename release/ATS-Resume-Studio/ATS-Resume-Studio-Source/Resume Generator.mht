@@ -1,0 +1,800 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://docs.google.com/document/u/0/d/1yEujfos-jvtZNHPdXPxBkR1XtIT3fEa09syk5bF0f5E/mobilebasic
+Subject: Resume Generator
+Date: Thu, 17 Sep 2026 18:05:38 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--qeaM3XiRG00DmfUnsAzXw5nTkgZFHzfG4fHAIUwkWT----"
+
+
+------MultipartBoundary--qeaM3XiRG00DmfUnsAzXw5nTkgZFHzfG4fHAIUwkWT----
+Content-Type: text/html
+Content-ID: <frame-79DD1FD1A3D0299E8AE8A56FE2053391@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://docs.google.com/document/u/0/d/1yEujfos-jvtZNHPdXPxBkR1XtIT3fEa09syk5bF0f5E/mobilebasic
+
+<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-a4734a7b-f8da-4691-b303-b94893e7e29d@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-a7710ed6-90b3-4cdf-9015-af6a2d7af064@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-030a36a5-c5ad-46f9-9baa-0a7bfc3a82d9@mhtml.blink" /><title>Resume Generator</title><link rel="shortcut icon" href="https://ssl.gstatic.com/docs/documents/images/docs-favicon-2026-v2.ico"><meta property="og:title" content="Resume Generator"><meta property="og:type" content="article"><meta property="og:site_name" content="Google Docs"><meta property="og:url" content="https://docs.google.com/document/u/0/d/1yEujfos-jvtZNHPdXPxBkR1XtIT3fEa09syk5bF0f5E/mobilebasic?usp=embed_facebook"><meta property="og:image" content="https://lh7-us.googleusercontent.com/docs/AHkbwyJuoAATqN21gOuwCbml5KEkE2-NrhfFoV0ggKpER2jvnd7n8hLLQVwQmuiIDS98JUKtWyphL8cQ5aiDO24CUAt3VKgImCDcGfRm019ses361-lsx-k=w1200-h630-p"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:description" content="Build: AI-Powered Resume Generator (ATS-Friendly Templates) What I'm Building A single-page React artifact that lets a user paste their existing resume as plain text, intelligently parses it, and renders it into one of 12 professionally designed, ATS-friendly templates targeted to their industry...."><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=0"><meta name="referrer" content="strict-origin-when-cross-origin"></head><body jsaction="u0pjoe:.CLIENT"><div id="docs-ml-header-id" class="docs-ml-header"><span class="docs-ml-header-item docs-ml-header-drive-link"><div id="docs-ml-header-drive-link-aria-label" style="display:none;">Go to Drive</div><a href="https://drive.google.com/u/0?usp=docs_web" aria-labelledby="docs-ml-header-drive-link-aria-label" role="button"><div class="docs-ml-header-icon-container"><div class="docs-ml-icon docs-ml-header-icon docs-ml-arrow-back-dir"><div class="docs-ml-img-container docs-ml-img docs-ml-arrow-back-icon"></div></div></div></a></span><span class="docs-ml-header-item docs-ml-header-document-title"><div class="docs-ml-header-document-title-text">Resume Generator</div></span></div><div class="app-container"><div class="doc-container"><div class="doc"><div class="doc-content" style="background-color:#ffffff;max-width:468pt;padding:72pt 72pt 72pt 72pt"><h1 id="h.n2w0thqssxqd" style="padding-top:24pt;margin:0;color:#000000;padding-left:0;font-size:20pt;padding-bottom:6pt;line-height:1.15;page-break-after:avoid;font-family:&quot;Arial&quot;;orphans:2;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:23pt;font-family:&quot;Arial&quot;;font-style:normal">Build: AI-Powered Resume Generator (ATS-Friendly Templates)</span></h1><h2 id="h.khzb78xweswv" style="padding-top:18pt;margin:0;color:#000000;padding-left:0;font-size:16pt;padding-bottom:4pt;line-height:1.15;page-break-after:avoid;font-family:&quot;Arial&quot;;orphans:2;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:17pt;font-family:&quot;Arial&quot;;font-style:normal">What I'm Building</span></h2><p style="padding-top:12pt;margin:0;color:#000000;padding-left:0;font-size:11pt;padding-bottom:12pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left;padding-right:0"><span>A single-page React artifact that lets a user paste their existing resume as plain text, intelligently parses it, and renders it into one of 12 professionally designed, ATS-friendly templates targeted to their industry. The user can preview live, switch templates, and export as both </span><span style="font-weight:700">PDF</span><span>&nbsp;and </span><span style="font-weight:700">editable .docx</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">.</span></p><p style="padding-top:12pt;margin:0;color:#000000;padding-left:0;font-size:11pt;padding-bottom:12pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left;padding-right:0"><span>The aesthetic baseline is timeless and editorial ‚Äî think </span><span style="font-style:italic">The New Yorker</span><span>&nbsp;meets </span><span style="font-style:italic">McKinsey</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">. ATS-friendly first, beautiful second. No icons inside graphics. No multi-column tricks. Just clean typography, generous whitespace, one accent color per template, and a single subtle decorative mark.</span></p><hr><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><h2 id="h.39w66ntgaojd" style="padding-top:18pt;margin:0;color:#000000;padding-left:0;font-size:16pt;padding-bottom:4pt;line-height:1.15;page-break-after:avoid;font-family:&quot;Arial&quot;;orphans:2;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:17pt;font-family:&quot;Arial&quot;;font-style:normal">User Flow</span></h2><ol class="lst-kix_23eqzscjysbu-0 start" start="1" style="padding:0;margin:0"><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span>Land on tool ‚Üí empty state with a big textarea: </span><span style="font-style:italic">"Paste your resume here"</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp;+ a "Try with sample" button</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span>User pastes raw resume text ‚Üí click </span><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Parse Resume</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Tool calls Claude API to extract structured data ‚Üí shows parsed fields in a collapsible "Review &amp; edit" panel on the left</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Right side shows live preview of the selected template, rendered on a styled 8.5√ó11 page</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Top of the right panel: profession category tabs (Corporate, Tech, Creative, Healthcare/Edu, Academic, Trades/Service) ‚Üí each shows 2 template variants</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">User clicks a template ‚Üí preview updates instantly</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span>Export buttons (sticky bottom-right): </span><span style="font-weight:700">Download PDF</span><span>&nbsp;| </span><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Download Word</span></li></ol><hr><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><h2 id="h.j8xpnoycf5hu" style="padding-top:18pt;margin:0;color:#000000;padding-left:0;font-size:16pt;padding-bottom:4pt;line-height:1.15;page-break-after:avoid;font-family:&quot;Arial&quot;;orphans:2;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:17pt;font-family:&quot;Arial&quot;;font-style:normal">Input: Intelligent Resume Parsing (Use Anthropic API)</span></h2><p style="padding-top:12pt;margin:0;color:#000000;padding-left:0;font-size:11pt;padding-bottom:12pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Single textarea. After paste, hit Claude API with this prompt:</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">You are a resume parser. Extract the following structured JSON from the pasted resume text.</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Return ONLY valid JSON, no preamble, no markdown fences.</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Schema:</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">{</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp; "name": "string",</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp; "contact": {</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp; &nbsp; "phone": "string",</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp; &nbsp; "email": "string",</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp; &nbsp; "location": "string (City, ST)",</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp; &nbsp; "linkedin": "string (URL or handle)",</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp; &nbsp; "website": "string"</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp; },</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp; "summary": {</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp; &nbsp; "tagline": "string (one short italic line, e.g. 'Multi-faceted retail executive with expertise in:')",</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp; &nbsp; "bullets": ["string"],</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp; &nbsp; "skills": ["string"]</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp; },</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp; "experience": [{</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp; &nbsp; "title": "string",</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp; &nbsp; "company": "string",</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp; &nbsp; "location": "string",</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp; &nbsp; "start": "string (e.g. 'Jan 2022')",</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp; &nbsp; "end": "string ('Present' or end date)",</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp; &nbsp; "summary": "string (optional paragraph)",</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp; &nbsp; "bullets": ["string"]</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp; }],</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp; "education": [{</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp; &nbsp; "degree": "string",</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp; &nbsp; "school": "string",</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp; &nbsp; "location": "string",</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp; &nbsp; "date": "string",</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp; &nbsp; "honors": "string (optional)"</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp; }],</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp; "certifications": [{</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp; &nbsp; "name": "string",</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp; &nbsp; "org": "string",</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp; &nbsp; "date": "string"</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp; }],</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp; "projects": [{ "name": "string", "description": "string", "bullets": ["string"] }],</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp; "awards": ["string"]</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">}</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">If a field is missing, use empty string or empty array. Do not invent content.</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Resume text:</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">[USER_INPUT]</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding-top:12pt;margin:0;color:#000000;padding-left:0;font-size:11pt;padding-bottom:12pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left;padding-right:0"><span>Use </span><span style="color:#188038;font-weight:400;font-family:&quot;Roboto Mono&quot;">claude-sonnet-4-20250514</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">, max_tokens 2000. Show a loading state. Render parsed fields into editable inputs so the user can fix any parsing mistakes before generating.</span></p><hr><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><h2 id="h.t1wasdt12v63" style="padding-top:18pt;margin:0;color:#000000;padding-left:0;font-size:16pt;padding-bottom:4pt;line-height:1.15;page-break-after:avoid;font-family:&quot;Arial&quot;;orphans:2;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:17pt;font-family:&quot;Arial&quot;;font-style:normal">Reference Template (Design DNA)</span></h2><p style="padding-top:12pt;margin:0;color:#000000;padding-left:0;font-size:11pt;padding-bottom:12pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Every template inherits this DNA, then varies by category:</span></p><ul class="lst-kix_bqkjyd6tluvl-0 start" style="padding:0;margin:0"><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Name</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: Centered, uppercase, spaced letter-tracking (~0.3em), serif (Garamond / Cambria / Times), large (~32pt)</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Decorative mark</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: One small geometric accent in a corner (semi-circle, vertical bar, or thin rule) in the template's accent color ‚Äî never overlapping text</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Contact line</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: Centered, pipe-separated, single line, smaller body type</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Section headers</span><span>: Centered uppercase, letter-spaced, sitting on a light gray banner (</span><span style="color:#188038;font-weight:400;font-family:&quot;Roboto Mono&quot;">#E8E8E8</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">) ‚Äî full content width</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Summary section</span><span>: 1‚Äì2 short bullets, then italic tagline, then dash-separated skills (</span><span style="color:#188038;font-weight:400;font-family:&quot;Roboto Mono&quot;">Project Management - Conflict Resolution - Strategic Planning</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">)</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Experience</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: Bold position title left, date range right (same baseline). Company/location italic below. Optional paragraph. Then bullets.</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Education</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: Degree/program left, date right. Italic honors line below.</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Generous whitespace</span><span>, off-white page background (</span><span style="color:#188038;font-weight:400;font-family:&quot;Roboto Mono&quot;">#FDFCF9</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">) optional</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Body type</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: Serif for traditional, sans-serif for modern variants</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">One accent color</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp;used sparingly: corner mark, banner tint, optional thin rule</span></li></ul><p style="padding-top:12pt;margin:0;color:#000000;padding-left:0;font-size:11pt;padding-bottom:12pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">This is what "stylized but ATS-friendly" looks like: visually distinct through typography and rhythm, not through tables, columns, or graphics.</span></p><hr><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><h2 id="h.icot6y51urmf" style="padding-top:18pt;margin:0;color:#000000;padding-left:0;font-size:16pt;padding-bottom:4pt;line-height:1.15;page-break-after:avoid;font-family:&quot;Arial&quot;;orphans:2;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:17pt;font-family:&quot;Arial&quot;;font-style:normal">Template Categories (6 categories √ó 2 variants = 12 templates)</span></h2><p style="padding-top:12pt;margin:0;color:#000000;padding-left:0;font-size:11pt;padding-bottom:12pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Every template uses single-column layout, standard section names, and no text inside SVG/images (ATS-safe).</span></p><h3 id="h.q6za8pjpnlho" style="padding-top:14pt;margin:0;color:#434343;padding-left:0;font-size:14pt;padding-bottom:4pt;line-height:1.15;page-break-after:avoid;font-family:&quot;Arial&quot;;orphans:2;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:13pt;font-family:&quot;Arial&quot;;font-style:normal">1. Corporate / Executive</span></h3><ul class="lst-kix_mojxo9trbjfh-0 start" style="padding:0;margin:0"><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Accent</span><span>: Deep navy </span><span style="color:#188038;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Roboto Mono&quot;;font-style:normal">#1B2B47</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Font</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: Garamond (body), Trajan-style serif (name)</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Variant A ‚Äî "The Boardroom"</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: Mirrors the reference exactly. Banner section headers, centered name, navy quarter-circle in top-right corner.</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Variant B ‚Äî "The Partner"</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: Left-aligned name with thin navy rule beneath. Section headers in small caps with hairline rule. Date right-aligned with tabular nums.</span></li></ul><h3 id="h.ptcunzr8wlym" style="padding-top:14pt;margin:0;color:#434343;padding-left:0;font-size:14pt;padding-bottom:4pt;line-height:1.15;page-break-after:avoid;font-family:&quot;Arial&quot;;orphans:2;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:13pt;font-family:&quot;Arial&quot;;font-style:normal">2. Tech / Engineering</span></h3><ul class="lst-kix_ut6q3syfl9zb-0 start" style="padding:0;margin:0"><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Accent</span><span>: Slate blue </span><span style="color:#188038;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Roboto Mono&quot;;font-style:normal">#3B5168</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Font</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: Inter or Helvetica Neue (body), same for headings</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Variant A ‚Äî "The Builder"</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: Clean sans-serif throughout. Section headers as small uppercase with a 1px slate rule beneath. Mono accent for skills/tech list.</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Variant B ‚Äî "The Architect"</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: Centered name like reference, but sans-serif. Banner headers tinted slate. Tech stack list uses inline pills (still text-based, ATS-safe).</span></li></ul><h3 id="h.irj37amyioat" style="padding-top:14pt;margin:0;color:#434343;padding-left:0;font-size:14pt;padding-bottom:4pt;line-height:1.15;page-break-after:avoid;font-family:&quot;Arial&quot;;orphans:2;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:13pt;font-family:&quot;Arial&quot;;font-style:normal">3. Creative (designers, writers, marketers)</span></h3><ul class="lst-kix_eoaytlzar1gy-0 start" style="padding:0;margin:0"><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Accent</span><span>: Warm clay </span><span style="color:#188038;font-weight:400;font-family:&quot;Roboto Mono&quot;">#A85432</span><span>&nbsp;or muted sage </span><span style="color:#188038;font-weight:400;font-family:&quot;Roboto Mono&quot;">#6B7F5C</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp;(let user toggle)</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Font</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: Cambria or Cardo (body), same for headings</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Variant A ‚Äî "The Editorial"</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: Asymmetric ‚Äî name left, contact right, on the same baseline. Section headers in italic small caps. Subtle decorative rule.</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Variant B ‚Äî "The Studio"</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: Centered name, generous leading, italic taglines for each role. Soft banner headers in clay tint.</span></li></ul><h3 id="h.d3kjgkl0raiy" style="padding-top:14pt;margin:0;color:#434343;padding-left:0;font-size:14pt;padding-bottom:4pt;line-height:1.15;page-break-after:avoid;font-family:&quot;Arial&quot;;orphans:2;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:13pt;font-family:&quot;Arial&quot;;font-style:normal">4. Healthcare / Education</span></h3><ul class="lst-kix_ry74ywa82vj6-0 start" style="padding:0;margin:0"><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Accent</span><span>: Teal </span><span style="color:#188038;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Roboto Mono&quot;;font-style:normal">#2A6B6E</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Font</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: Georgia (body), Cambria (headings)</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Variant A ‚Äî "The Practitioner"</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: Reference-style with teal banner headers. Clear section for licenses/certifications.</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Variant B ‚Äî "The Educator"</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: More compact, room for publications and continuing-education sections. Left-aligned name, teal rule beneath.</span></li></ul><h3 id="h.ghjttm6uax2p" style="padding-top:14pt;margin:0;color:#434343;padding-left:0;font-size:14pt;padding-bottom:4pt;line-height:1.15;page-break-after:avoid;font-family:&quot;Arial&quot;;orphans:2;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:13pt;font-family:&quot;Arial&quot;;font-style:normal">5. Academic / Research</span></h3><ul class="lst-kix_srftllph5czj-0 start" style="padding:0;margin:0"><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Accent</span><span>: Burgundy </span><span style="color:#188038;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Roboto Mono&quot;;font-style:normal">#6B2737</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Font</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: Garamond (body and headings)</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Variant A ‚Äî "The Scholar"</span><span>: Formal centered name, traditional banner headers, dedicated sections for </span><span style="font-style:italic">Publications</span><span>, </span><span style="font-style:italic">Presentations</span><span>, </span><span style="font-style:italic">Grants</span><span>, </span><span style="font-style:italic">Teaching</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">.</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Variant B ‚Äî "The Researcher"</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: Compact density for CV-length resumes. Section headers as small caps with burgundy rule. Tabular publication formatting.</span></li></ul><h3 id="h.u3lelxa21hpm" style="padding-top:14pt;margin:0;color:#434343;padding-left:0;font-size:14pt;padding-bottom:4pt;line-height:1.15;page-break-after:avoid;font-family:&quot;Arial&quot;;orphans:2;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:13pt;font-family:&quot;Arial&quot;;font-style:normal">6. Trades / Service / Hospitality</span></h3><ul class="lst-kix_qsiq47oh5m30-0 start" style="padding:0;margin:0"><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Accent</span><span>: Charcoal </span><span style="color:#188038;font-weight:400;font-family:&quot;Roboto Mono&quot;">#2D2D2D</span><span>&nbsp;with warm orange </span><span style="color:#188038;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Roboto Mono&quot;;font-style:normal">#C2511F</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Font</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: Calibri or Source Sans (body)</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Variant A ‚Äî "The Operator"</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: Bold left-aligned name, charcoal banner headers with thin orange underline. Skills listed as plain dash-separated rows.</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Variant B ‚Äî "The Foreman"</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: Reference-style centered name with charcoal quarter-circle. Certifications/licenses prominently above experience.</span></li></ul><hr><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><h2 id="h.idzsgf6mxy56" style="padding-top:18pt;margin:0;color:#000000;padding-left:0;font-size:16pt;padding-bottom:4pt;line-height:1.15;page-break-after:avoid;font-family:&quot;Arial&quot;;orphans:2;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:17pt;font-family:&quot;Arial&quot;;font-style:normal">Live Preview</span></h2><ul class="lst-kix_qgb9a64c65hb-0 start" style="padding:0;margin:0"><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span>Right panel renders the chosen template inside a styled "page" div: </span><span style="color:#188038;font-weight:400;font-family:&quot;Roboto Mono&quot;">width: 8.5in</span><span>, </span><span style="color:#188038;font-weight:400;font-family:&quot;Roboto Mono&quot;">min-height: 11in</span><span>, </span><span style="color:#188038;font-weight:400;font-family:&quot;Roboto Mono&quot;">padding: 0.75in</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">, off-white background, subtle shadow.</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Real-time updates as the user edits parsed fields or switches templates.</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span>If content exceeds one page, show a faint dashed line where the page break occurs (CSS </span><span style="color:#188038;font-weight:400;font-family:&quot;Roboto Mono&quot;">@page</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp;aware).</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">The preview HTML must be the exact source for PDF export ‚Äî what they see is what they get.</span></li></ul><hr><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><h2 id="h.zeo98o332hfl" style="padding-top:18pt;margin:0;color:#000000;padding-left:0;font-size:16pt;padding-bottom:4pt;line-height:1.15;page-break-after:avoid;font-family:&quot;Arial&quot;;orphans:2;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:17pt;font-family:&quot;Arial&quot;;font-style:normal">Export: PDF</span></h2><ul class="lst-kix_ew3u92tl22xa-0 start" style="padding:0;margin:0"><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span>Use </span><span style="color:#188038;font-weight:400;font-family:&quot;Roboto Mono&quot;">html2pdf.js</span><span>&nbsp;(preferred) or </span><span style="color:#188038;font-weight:400;font-family:&quot;Roboto Mono&quot;">jsPDF + html2canvas</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">.</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span>Convert the preview's DOM to PDF with </span><span style="color:#188038;font-weight:400;font-family:&quot;Roboto Mono&quot;">html2pdf().from(element).set({ margin: 0, filename: 'resume.pdf', html2canvas: { scale: 2 }, jsPDF: { format: 'letter', unit: 'in' } }).save()</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">.</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Critical</span><span>: text must be selectable in the resulting PDF (real text layer, not a rasterized image). If </span><span style="color:#188038;font-weight:400;font-family:&quot;Roboto Mono&quot;">html2canvas</span><span>&nbsp;produces an image-only PDF, switch to </span><span style="color:#188038;font-weight:400;font-family:&quot;Roboto Mono&quot;">jsPDF.html()</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp;or generate text directly via jsPDF for ATS compatibility.</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Embed fonts using web-safe fallbacks (Garamond ‚Üí "EB Garamond" / Georgia, Calibri ‚Üí Helvetica, etc.).</span></li></ul><h2 id="h.72nti0xhdxis" style="padding-top:18pt;margin:0;color:#000000;padding-left:0;font-size:16pt;padding-bottom:4pt;line-height:1.15;page-break-after:avoid;font-family:&quot;Arial&quot;;orphans:2;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:17pt;font-family:&quot;Arial&quot;;font-style:normal">Export: Word (.docx)</span></h2><ul class="lst-kix_j0khzu16m13t-0 start" style="padding:0;margin:0"><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span>Use the </span><span style="color:#188038;font-weight:400;font-family:&quot;Roboto Mono&quot;">docx</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp;npm library (works in browser).</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Translate the template's structure into Word equivalents:</span></li></ul><ul class="lst-kix_j0khzu16m13t-1 start" style="padding:0;margin:0"><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Banner section headers</span><span>&nbsp;‚Üí </span><span style="color:#188038;font-weight:400;font-family:&quot;Roboto Mono&quot;">Heading1</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp;style with shaded paragraph background</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Bold title left + date right</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp;‚Üí paragraph with right-aligned tab stop, not a table</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Italic honors / tagline</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp;‚Üí italic run within paragraph</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Bullets</span><span>&nbsp;‚Üí </span><span style="color:#188038;font-weight:400;font-family:&quot;Roboto Mono&quot;">bullet</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp;numbering style</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:72pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Decorative corner mark</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp;‚Üí omit in DOCX (or replace with a subtle horizontal rule); ATS doesn't care about decorations and Word's rendering of shapes is fragile</span></li></ul><ul class="lst-kix_j0khzu16m13t-0" style="padding:0;margin:0"><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span>Use </span><span style="color:#188038;font-weight:400;font-family:&quot;Roboto Mono&quot;">Document</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp;styles, not direct formatting, so the user can re-style in Word easily.</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span>Trigger download via </span><span style="color:#188038;font-weight:400;font-family:&quot;Roboto Mono&quot;">Packer.toBlob()</span><span>&nbsp;+ </span><span style="color:#188038;font-weight:400;font-family:&quot;Roboto Mono&quot;">URL.createObjectURL()</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">.</span></li></ul><hr><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><h2 id="h.rfrhj8bg0ra4" style="padding-top:18pt;margin:0;color:#000000;padding-left:0;font-size:16pt;padding-bottom:4pt;line-height:1.15;page-break-after:avoid;font-family:&quot;Arial&quot;;orphans:2;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:17pt;font-family:&quot;Arial&quot;;font-style:normal">Technical Stack</span></h2><ul class="lst-kix_ys4ar8rp1l99-0 start" style="padding:0;margin:0"><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">React</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp;(single-file artifact, default export, no required props)</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Tailwind</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp;core utility classes only</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">lucide-react</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp;for UI icons (NOT in the resume itself)</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="color:#188038;font-weight:700;font-family:&quot;Roboto Mono&quot;">docx</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp;for Word export</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="color:#188038;font-weight:700;font-family:&quot;Roboto Mono&quot;">html2pdf.js</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp;for PDF export</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Anthropic API</span><span>&nbsp;for resume parsing (no API key needed ‚Äî handled by the artifact runtime). Model: </span><span style="color:#188038;font-weight:400;font-family:&quot;Roboto Mono&quot;">claude-sonnet-4-20250514</span><span>, </span><span style="color:#188038;font-weight:400;font-family:&quot;Roboto Mono&quot;">max_tokens: 2000</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">.</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">No </span><span style="color:#188038;font-weight:700;font-family:&quot;Roboto Mono&quot;">localStorage</span><span>&nbsp;‚Äî keep state in React (</span><span style="color:#188038;font-weight:400;font-family:&quot;Roboto Mono&quot;">useState</span><span>&nbsp;/ </span><span style="color:#188038;font-weight:400;font-family:&quot;Roboto Mono&quot;">useReducer</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">).</span></li></ul><hr><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><h2 id="h.n3euhyeqqrzk" style="padding-top:18pt;margin:0;color:#000000;padding-left:0;font-size:16pt;padding-bottom:4pt;line-height:1.15;page-break-after:avoid;font-family:&quot;Arial&quot;;orphans:2;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:17pt;font-family:&quot;Arial&quot;;font-style:normal">UX Details (Don't Skip These)</span></h2><ul class="lst-kix_um7efih7xor7-0 start" style="padding:0;margin:0"><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Empty state</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: large textarea, "Try with sample resume" button that loads a realistic demo (use the Emma Larsen template content).</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Layout</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: Two columns. Left = paste/edit panel. Right = live preview. Stack vertically on mobile.</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Template picker</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: horizontal tabs across the top of the preview panel ‚Äî Category ‚Üí Variant. Show small thumbnail previews if possible, or labeled buttons.</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Color toggle</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp;for Creative category (clay vs sage).</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Loading states</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: spinner overlay during parsing, skeleton on preview while template renders.</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Errors</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">: if parsing fails or returns invalid JSON, show "We couldn't parse this ‚Äî paste the structured fields manually" and reveal the edit panel pre-filled with empty fields.</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Sticky export bar</span><span>: bottom-right, two buttons ‚Äî </span><span style="font-style:italic">Download PDF</span><span>&nbsp;and </span><span style="font-style:italic">Download Word</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp;‚Äî always visible.</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">No login, no signup, no email gate</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">. Just the tool.</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="font-weight:700">Print CSS</span><span>: </span><span style="color:#188038;font-weight:400;font-family:&quot;Roboto Mono&quot;">@media print</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp;rules so users can also print directly from the browser if they want.</span></li></ul><hr><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><h2 id="h.uy4nowmpwljk" style="padding-top:18pt;margin:0;color:#000000;padding-left:0;font-size:16pt;padding-bottom:4pt;line-height:1.15;page-break-after:avoid;font-family:&quot;Arial&quot;;orphans:2;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:17pt;font-family:&quot;Arial&quot;;font-style:normal">Acceptance Criteria</span></h2><ul class="lst-kix_9uscbxatg8xw-0 start" style="padding:0;margin:0"><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">[ ] Pasting a resume and clicking Parse populates structured fields within ~5s</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">[ ] Switching between all 12 templates updates the preview instantly</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">[ ] PDF download produces a single-page (or multi-page) file with selectable text</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">[ ] Word download opens cleanly in Microsoft Word with formatting intact</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">[ ] All templates pass a basic ATS test: copy-paste from the PDF into a plain text editor produces clean, readable, properly ordered text</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">[ ] Mobile responsive ‚Äî preview scales down, controls remain usable</span></li><li style="padding-top:12pt;color:#000000;padding-left:0pt;font-size:11pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:36pt;font-family:&quot;Arial&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">[ ] No console errors</span></li></ul><hr><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><h2 id="h.e3loa5sw2r7j" style="padding-top:18pt;margin:0;color:#000000;padding-left:0;font-size:16pt;padding-bottom:4pt;line-height:1.15;page-break-after:avoid;font-family:&quot;Arial&quot;;orphans:2;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:17pt;font-family:&quot;Arial&quot;;font-style:normal">Build It</span></h2><p style="padding-top:12pt;margin:0;color:#000000;padding-left:0;font-size:11pt;padding-bottom:12pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left;padding-right:0"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Build the complete artifact now. Don't ask clarifying questions ‚Äî make sensible defaults for anything unspecified. Lead with strong typography and restraint over visual flourish. The reference template's design language is your north star.</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p></div></div></div></div></body></html>
+------MultipartBoundary--qeaM3XiRG00DmfUnsAzXw5nTkgZFHzfG4fHAIUwkWT----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-030a36a5-c5ad-46f9-9baa-0a7bfc3a82d9@mhtml.blink
+
+@charset "utf-8";
+
+.lst-kix_23eqzscjysbu-5 > li { counter-increment: lst-ctn-kix_23eqzscjysbu-5 1; }
+
+.lst-kix_ry74ywa82vj6-6 > li::before { content: "‚óè  "; }
+
+.lst-kix_ry74ywa82vj6-5 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_ry74ywa82vj6-4 > li::before { content: "‚óã  "; }
+
+.lst-kix_ry74ywa82vj6-3 > li::before { content: "‚óè  "; }
+
+.lst-kix_ry74ywa82vj6-0 > li::before { content: "‚óè  "; }
+
+.lst-kix_ry74ywa82vj6-2 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_ry74ywa82vj6-1 > li::before { content: "‚óã  "; }
+
+ol.lst-kix_23eqzscjysbu-3.start { counter-reset: lst-ctn-kix_23eqzscjysbu-3 0; }
+
+ul.lst-kix_qgb9a64c65hb-8 { list-style-type: none; }
+
+ul.lst-kix_qgb9a64c65hb-7 { list-style-type: none; }
+
+.lst-kix_j0khzu16m13t-7 > li::before { content: "‚óã  "; }
+
+.lst-kix_j0khzu16m13t-6 > li::before { content: "‚óè  "; }
+
+.lst-kix_j0khzu16m13t-3 > li::before { content: "‚óè  "; }
+
+.lst-kix_j0khzu16m13t-5 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_qgb9a64c65hb-6 > li::before { content: "‚óè  "; }
+
+.lst-kix_qgb9a64c65hb-7 > li::before { content: "‚óã  "; }
+
+.lst-kix_j0khzu16m13t-4 > li::before { content: "‚óã  "; }
+
+ul.lst-kix_qgb9a64c65hb-4 { list-style-type: none; }
+
+.lst-kix_qgb9a64c65hb-8 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_23eqzscjysbu-7 > li { counter-increment: lst-ctn-kix_23eqzscjysbu-7 1; }
+
+ul.lst-kix_qgb9a64c65hb-3 { list-style-type: none; }
+
+ul.lst-kix_qgb9a64c65hb-6 { list-style-type: none; }
+
+.lst-kix_j0khzu16m13t-1 > li::before { content: "‚óã  "; }
+
+ul.lst-kix_qgb9a64c65hb-5 { list-style-type: none; }
+
+ul.lst-kix_qgb9a64c65hb-0 { list-style-type: none; }
+
+ul.lst-kix_qgb9a64c65hb-2 { list-style-type: none; }
+
+.lst-kix_j0khzu16m13t-2 > li::before { content: "‚ñ†  "; }
+
+ul.lst-kix_qgb9a64c65hb-1 { list-style-type: none; }
+
+ul.lst-kix_eoaytlzar1gy-5 { list-style-type: none; }
+
+ul.lst-kix_eoaytlzar1gy-6 { list-style-type: none; }
+
+ul.lst-kix_eoaytlzar1gy-3 { list-style-type: none; }
+
+ul.lst-kix_eoaytlzar1gy-4 { list-style-type: none; }
+
+ul.lst-kix_eoaytlzar1gy-1 { list-style-type: none; }
+
+ul.lst-kix_eoaytlzar1gy-2 { list-style-type: none; }
+
+.lst-kix_j0khzu16m13t-0 > li::before { content: "‚óè  "; }
+
+ul.lst-kix_eoaytlzar1gy-0 { list-style-type: none; }
+
+ul.lst-kix_eoaytlzar1gy-7 { list-style-type: none; }
+
+ul.lst-kix_eoaytlzar1gy-8 { list-style-type: none; }
+
+.lst-kix_23eqzscjysbu-3 > li { counter-increment: lst-ctn-kix_23eqzscjysbu-3 1; }
+
+ol.lst-kix_23eqzscjysbu-8.start { counter-reset: lst-ctn-kix_23eqzscjysbu-8 0; }
+
+.lst-kix_ry74ywa82vj6-7 > li::before { content: "‚óã  "; }
+
+.lst-kix_ry74ywa82vj6-8 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_um7efih7xor7-8 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_bqkjyd6tluvl-2 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_bqkjyd6tluvl-0 > li::before { content: "‚óè  "; }
+
+ul.lst-kix_j0khzu16m13t-5 { list-style-type: none; }
+
+ol.lst-kix_23eqzscjysbu-4 { list-style-type: none; }
+
+ul.lst-kix_j0khzu16m13t-6 { list-style-type: none; }
+
+ol.lst-kix_23eqzscjysbu-3 { list-style-type: none; }
+
+ul.lst-kix_j0khzu16m13t-7 { list-style-type: none; }
+
+ol.lst-kix_23eqzscjysbu-2 { list-style-type: none; }
+
+ul.lst-kix_j0khzu16m13t-8 { list-style-type: none; }
+
+ol.lst-kix_23eqzscjysbu-1 { list-style-type: none; }
+
+ul.lst-kix_j0khzu16m13t-1 { list-style-type: none; }
+
+ol.lst-kix_23eqzscjysbu-0 { list-style-type: none; }
+
+ul.lst-kix_qsiq47oh5m30-6 { list-style-type: none; }
+
+ul.lst-kix_j0khzu16m13t-2 { list-style-type: none; }
+
+ul.lst-kix_qsiq47oh5m30-7 { list-style-type: none; }
+
+ul.lst-kix_j0khzu16m13t-3 { list-style-type: none; }
+
+ul.lst-kix_qsiq47oh5m30-8 { list-style-type: none; }
+
+ul.lst-kix_j0khzu16m13t-4 { list-style-type: none; }
+
+.lst-kix_um7efih7xor7-2 > li::before { content: "‚ñ†  "; }
+
+ul.lst-kix_j0khzu16m13t-0 { list-style-type: none; }
+
+ol.lst-kix_23eqzscjysbu-8 { list-style-type: none; }
+
+.lst-kix_um7efih7xor7-0 > li::before { content: "‚óè  "; }
+
+ol.lst-kix_23eqzscjysbu-7 { list-style-type: none; }
+
+ol.lst-kix_23eqzscjysbu-6 { list-style-type: none; }
+
+ol.lst-kix_23eqzscjysbu-5 { list-style-type: none; }
+
+.lst-kix_um7efih7xor7-6 > li::before { content: "‚óè  "; }
+
+.lst-kix_23eqzscjysbu-1 > li { counter-increment: lst-ctn-kix_23eqzscjysbu-1 1; }
+
+.lst-kix_ew3u92tl22xa-2 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_um7efih7xor7-4 > li::before { content: "‚óã  "; }
+
+.lst-kix_23eqzscjysbu-8 > li { counter-increment: lst-ctn-kix_23eqzscjysbu-8 1; }
+
+ul.lst-kix_ut6q3syfl9zb-0 { list-style-type: none; }
+
+.lst-kix_23eqzscjysbu-2 > li { counter-increment: lst-ctn-kix_23eqzscjysbu-2 1; }
+
+ul.lst-kix_ut6q3syfl9zb-1 { list-style-type: none; }
+
+ul.lst-kix_ut6q3syfl9zb-2 { list-style-type: none; }
+
+ul.lst-kix_ut6q3syfl9zb-3 { list-style-type: none; }
+
+ul.lst-kix_ut6q3syfl9zb-4 { list-style-type: none; }
+
+.lst-kix_ew3u92tl22xa-0 > li::before { content: "‚óè  "; }
+
+.lst-kix_qgb9a64c65hb-4 > li::before { content: "‚óã  "; }
+
+.lst-kix_qgb9a64c65hb-2 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_ut6q3syfl9zb-8 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_j0khzu16m13t-8 > li::before { content: "‚ñ†  "; }
+
+ul.lst-kix_qsiq47oh5m30-2 { list-style-type: none; }
+
+.lst-kix_qgb9a64c65hb-0 > li::before { content: "‚óè  "; }
+
+ul.lst-kix_qsiq47oh5m30-3 { list-style-type: none; }
+
+ul.lst-kix_qsiq47oh5m30-4 { list-style-type: none; }
+
+ul.lst-kix_qsiq47oh5m30-5 { list-style-type: none; }
+
+.lst-kix_ys4ar8rp1l99-7 > li::before { content: "‚óã  "; }
+
+ul.lst-kix_qsiq47oh5m30-0 { list-style-type: none; }
+
+ul.lst-kix_qsiq47oh5m30-1 { list-style-type: none; }
+
+.lst-kix_ut6q3syfl9zb-2 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_ut6q3syfl9zb-0 > li::before { content: "‚óè  "; }
+
+.lst-kix_ut6q3syfl9zb-4 > li::before { content: "‚óã  "; }
+
+.lst-kix_ys4ar8rp1l99-1 > li::before { content: "‚óã  "; }
+
+.lst-kix_ys4ar8rp1l99-5 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_bqkjyd6tluvl-6 > li::before { content: "‚óè  "; }
+
+.lst-kix_ut6q3syfl9zb-6 > li::before { content: "‚óè  "; }
+
+.lst-kix_ys4ar8rp1l99-3 > li::before { content: "‚óè  "; }
+
+.lst-kix_bqkjyd6tluvl-4 > li::before { content: "‚óã  "; }
+
+ul.lst-kix_ut6q3syfl9zb-5 { list-style-type: none; }
+
+ul.lst-kix_ut6q3syfl9zb-6 { list-style-type: none; }
+
+ul.lst-kix_ut6q3syfl9zb-7 { list-style-type: none; }
+
+ul.lst-kix_ut6q3syfl9zb-8 { list-style-type: none; }
+
+.lst-kix_bqkjyd6tluvl-8 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_eoaytlzar1gy-1 > li::before { content: "‚óã  "; }
+
+.lst-kix_eoaytlzar1gy-0 > li::before { content: "‚óè  "; }
+
+.lst-kix_eoaytlzar1gy-3 > li::before { content: "‚óè  "; }
+
+.lst-kix_9uscbxatg8xw-8 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_eoaytlzar1gy-2 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_9uscbxatg8xw-6 > li::before { content: "‚óè  "; }
+
+.lst-kix_eoaytlzar1gy-7 > li::before { content: "‚óã  "; }
+
+.lst-kix_9uscbxatg8xw-5 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_9uscbxatg8xw-7 > li::before { content: "‚óã  "; }
+
+.lst-kix_eoaytlzar1gy-5 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_23eqzscjysbu-6 > li { counter-increment: lst-ctn-kix_23eqzscjysbu-6 1; }
+
+ol.lst-kix_23eqzscjysbu-6.start { counter-reset: lst-ctn-kix_23eqzscjysbu-6 0; }
+
+.lst-kix_eoaytlzar1gy-4 > li::before { content: "‚óã  "; }
+
+.lst-kix_eoaytlzar1gy-8 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_9uscbxatg8xw-3 > li::before { content: "‚óè  "; }
+
+.lst-kix_9uscbxatg8xw-4 > li::before { content: "‚óã  "; }
+
+.lst-kix_eoaytlzar1gy-6 > li::before { content: "‚óè  "; }
+
+.lst-kix_srftllph5czj-0 > li::before { content: "‚óè  "; }
+
+.lst-kix_srftllph5czj-1 > li::before { content: "‚óã  "; }
+
+.lst-kix_23eqzscjysbu-1 > li::before { content: "" counter(lst-ctn-kix_23eqzscjysbu-1, lower-latin) ". "; }
+
+.lst-kix_23eqzscjysbu-3 > li::before { content: "" counter(lst-ctn-kix_23eqzscjysbu-3) ". "; }
+
+.lst-kix_23eqzscjysbu-2 > li::before { content: "" counter(lst-ctn-kix_23eqzscjysbu-2, lower-roman) ". "; }
+
+.lst-kix_23eqzscjysbu-6 > li::before { content: "" counter(lst-ctn-kix_23eqzscjysbu-6) ". "; }
+
+.lst-kix_srftllph5czj-4 > li::before { content: "‚óã  "; }
+
+.lst-kix_23eqzscjysbu-7 > li::before { content: "" counter(lst-ctn-kix_23eqzscjysbu-7, lower-latin) ". "; }
+
+.lst-kix_23eqzscjysbu-8 > li::before { content: "" counter(lst-ctn-kix_23eqzscjysbu-8, lower-roman) ". "; }
+
+.lst-kix_srftllph5czj-2 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_srftllph5czj-3 > li::before { content: "‚óè  "; }
+
+.lst-kix_23eqzscjysbu-0 > li::before { content: "" counter(lst-ctn-kix_23eqzscjysbu-0) ". "; }
+
+ol.lst-kix_23eqzscjysbu-0.start { counter-reset: lst-ctn-kix_23eqzscjysbu-0 0; }
+
+.lst-kix_23eqzscjysbu-4 > li { counter-increment: lst-ctn-kix_23eqzscjysbu-4 1; }
+
+.lst-kix_23eqzscjysbu-5 > li::before { content: "" counter(lst-ctn-kix_23eqzscjysbu-5, lower-roman) ". "; }
+
+.lst-kix_23eqzscjysbu-4 > li::before { content: "" counter(lst-ctn-kix_23eqzscjysbu-4, lower-latin) ". "; }
+
+.lst-kix_qsiq47oh5m30-0 > li::before { content: "‚óè  "; }
+
+.lst-kix_qsiq47oh5m30-1 > li::before { content: "‚óã  "; }
+
+.lst-kix_mojxo9trbjfh-3 > li::before { content: "‚óè  "; }
+
+.lst-kix_mojxo9trbjfh-4 > li::before { content: "‚óã  "; }
+
+.lst-kix_ew3u92tl22xa-4 > li::before { content: "‚óã  "; }
+
+.lst-kix_ew3u92tl22xa-6 > li::before { content: "‚óè  "; }
+
+.lst-kix_mojxo9trbjfh-2 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_mojxo9trbjfh-6 > li::before { content: "‚óè  "; }
+
+.lst-kix_ew3u92tl22xa-5 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_qsiq47oh5m30-5 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_ew3u92tl22xa-8 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_qsiq47oh5m30-6 > li::before { content: "‚óè  "; }
+
+.lst-kix_mojxo9trbjfh-5 > li::before { content: "‚ñ†  "; }
+
+ol.lst-kix_23eqzscjysbu-7.start { counter-reset: lst-ctn-kix_23eqzscjysbu-7 0; }
+
+.lst-kix_ew3u92tl22xa-7 > li::before { content: "‚óã  "; }
+
+.lst-kix_srftllph5czj-8 > li::before { content: "‚ñ†  "; }
+
+ol.lst-kix_23eqzscjysbu-1.start { counter-reset: lst-ctn-kix_23eqzscjysbu-1 0; }
+
+.lst-kix_srftllph5czj-5 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_qsiq47oh5m30-4 > li::before { content: "‚óã  "; }
+
+.lst-kix_mojxo9trbjfh-0 > li::before { content: "‚óè  "; }
+
+.lst-kix_srftllph5czj-6 > li::before { content: "‚óè  "; }
+
+.lst-kix_srftllph5czj-7 > li::before { content: "‚óã  "; }
+
+.lst-kix_qsiq47oh5m30-2 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_qsiq47oh5m30-3 > li::before { content: "‚óè  "; }
+
+.lst-kix_mojxo9trbjfh-1 > li::before { content: "‚óã  "; }
+
+ul.lst-kix_srftllph5czj-4 { list-style-type: none; }
+
+ul.lst-kix_srftllph5czj-5 { list-style-type: none; }
+
+ul.lst-kix_ys4ar8rp1l99-0 { list-style-type: none; }
+
+ul.lst-kix_srftllph5czj-2 { list-style-type: none; }
+
+ul.lst-kix_ys4ar8rp1l99-1 { list-style-type: none; }
+
+ul.lst-kix_srftllph5czj-3 { list-style-type: none; }
+
+ul.lst-kix_ys4ar8rp1l99-2 { list-style-type: none; }
+
+ul.lst-kix_srftllph5czj-0 { list-style-type: none; }
+
+ul.lst-kix_srftllph5czj-1 { list-style-type: none; }
+
+ul.lst-kix_ys4ar8rp1l99-7 { list-style-type: none; }
+
+.lst-kix_9uscbxatg8xw-2 > li::before { content: "‚ñ†  "; }
+
+ul.lst-kix_ys4ar8rp1l99-8 { list-style-type: none; }
+
+.lst-kix_9uscbxatg8xw-1 > li::before { content: "‚óã  "; }
+
+ul.lst-kix_srftllph5czj-8 { list-style-type: none; }
+
+ul.lst-kix_ys4ar8rp1l99-3 { list-style-type: none; }
+
+.lst-kix_9uscbxatg8xw-0 > li::before { content: "‚óè  "; }
+
+ul.lst-kix_ys4ar8rp1l99-4 { list-style-type: none; }
+
+ul.lst-kix_srftllph5czj-6 { list-style-type: none; }
+
+ul.lst-kix_ys4ar8rp1l99-5 { list-style-type: none; }
+
+ul.lst-kix_srftllph5czj-7 { list-style-type: none; }
+
+ul.lst-kix_ys4ar8rp1l99-6 { list-style-type: none; }
+
+ul.lst-kix_bqkjyd6tluvl-2 { list-style-type: none; }
+
+.lst-kix_qsiq47oh5m30-8 > li::before { content: "‚ñ†  "; }
+
+ul.lst-kix_bqkjyd6tluvl-1 { list-style-type: none; }
+
+ul.lst-kix_bqkjyd6tluvl-0 { list-style-type: none; }
+
+.lst-kix_qsiq47oh5m30-7 > li::before { content: "‚óã  "; }
+
+.lst-kix_mojxo9trbjfh-7 > li::before { content: "‚óã  "; }
+
+.lst-kix_mojxo9trbjfh-8 > li::before { content: "‚ñ†  "; }
+
+ul.lst-kix_bqkjyd6tluvl-8 { list-style-type: none; }
+
+ul.lst-kix_bqkjyd6tluvl-7 { list-style-type: none; }
+
+ul.lst-kix_bqkjyd6tluvl-6 { list-style-type: none; }
+
+ul.lst-kix_bqkjyd6tluvl-5 { list-style-type: none; }
+
+ul.lst-kix_bqkjyd6tluvl-4 { list-style-type: none; }
+
+ul.lst-kix_bqkjyd6tluvl-3 { list-style-type: none; }
+
+ol.lst-kix_23eqzscjysbu-2.start { counter-reset: lst-ctn-kix_23eqzscjysbu-2 0; }
+
+.lst-kix_23eqzscjysbu-0 > li { counter-increment: lst-ctn-kix_23eqzscjysbu-0 1; }
+
+.lst-kix_bqkjyd6tluvl-1 > li::before { content: "‚óã  "; }
+
+ul.lst-kix_9uscbxatg8xw-5 { list-style-type: none; }
+
+ul.lst-kix_ry74ywa82vj6-0 { list-style-type: none; }
+
+ul.lst-kix_9uscbxatg8xw-4 { list-style-type: none; }
+
+ul.lst-kix_ry74ywa82vj6-1 { list-style-type: none; }
+
+ul.lst-kix_9uscbxatg8xw-7 { list-style-type: none; }
+
+ul.lst-kix_ry74ywa82vj6-2 { list-style-type: none; }
+
+ul.lst-kix_9uscbxatg8xw-6 { list-style-type: none; }
+
+ul.lst-kix_ry74ywa82vj6-3 { list-style-type: none; }
+
+ul.lst-kix_ry74ywa82vj6-4 { list-style-type: none; }
+
+ul.lst-kix_9uscbxatg8xw-8 { list-style-type: none; }
+
+ul.lst-kix_ry74ywa82vj6-5 { list-style-type: none; }
+
+ul.lst-kix_ry74ywa82vj6-6 { list-style-type: none; }
+
+ul.lst-kix_ry74ywa82vj6-7 { list-style-type: none; }
+
+.lst-kix_um7efih7xor7-1 > li::before { content: "‚óã  "; }
+
+ul.lst-kix_9uscbxatg8xw-1 { list-style-type: none; }
+
+ul.lst-kix_9uscbxatg8xw-0 { list-style-type: none; }
+
+ul.lst-kix_9uscbxatg8xw-3 { list-style-type: none; }
+
+ul.lst-kix_9uscbxatg8xw-2 { list-style-type: none; }
+
+.lst-kix_um7efih7xor7-5 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_um7efih7xor7-3 > li::before { content: "‚óè  "; }
+
+.lst-kix_um7efih7xor7-7 > li::before { content: "‚óã  "; }
+
+ul.lst-kix_ry74ywa82vj6-8 { list-style-type: none; }
+
+.lst-kix_ew3u92tl22xa-3 > li::before { content: "‚óè  "; }
+
+ol.lst-kix_23eqzscjysbu-4.start { counter-reset: lst-ctn-kix_23eqzscjysbu-4 0; }
+
+.lst-kix_ew3u92tl22xa-1 > li::before { content: "‚óã  "; }
+
+ul.lst-kix_ew3u92tl22xa-7 { list-style-type: none; }
+
+ul.lst-kix_ew3u92tl22xa-8 { list-style-type: none; }
+
+ul.lst-kix_ew3u92tl22xa-5 { list-style-type: none; }
+
+ul.lst-kix_ew3u92tl22xa-6 { list-style-type: none; }
+
+.lst-kix_qgb9a64c65hb-5 > li::before { content: "‚ñ†  "; }
+
+ul.lst-kix_ew3u92tl22xa-3 { list-style-type: none; }
+
+ul.lst-kix_ew3u92tl22xa-4 { list-style-type: none; }
+
+ul.lst-kix_ew3u92tl22xa-1 { list-style-type: none; }
+
+ul.lst-kix_ew3u92tl22xa-2 { list-style-type: none; }
+
+ul.lst-kix_ew3u92tl22xa-0 { list-style-type: none; }
+
+.lst-kix_qgb9a64c65hb-3 > li::before { content: "‚óè  "; }
+
+.lst-kix_ys4ar8rp1l99-8 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_ys4ar8rp1l99-6 > li::before { content: "‚óè  "; }
+
+.lst-kix_qgb9a64c65hb-1 > li::before { content: "‚óã  "; }
+
+.lst-kix_ys4ar8rp1l99-4 > li::before { content: "‚óã  "; }
+
+ul.lst-kix_mojxo9trbjfh-4 { list-style-type: none; }
+
+ul.lst-kix_mojxo9trbjfh-3 { list-style-type: none; }
+
+ul.lst-kix_mojxo9trbjfh-6 { list-style-type: none; }
+
+.lst-kix_bqkjyd6tluvl-5 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_bqkjyd6tluvl-7 > li::before { content: "‚óã  "; }
+
+ul.lst-kix_mojxo9trbjfh-5 { list-style-type: none; }
+
+ul.lst-kix_mojxo9trbjfh-0 { list-style-type: none; }
+
+ul.lst-kix_mojxo9trbjfh-2 { list-style-type: none; }
+
+.lst-kix_ut6q3syfl9zb-1 > li::before { content: "‚óã  "; }
+
+.lst-kix_ut6q3syfl9zb-5 > li::before { content: "‚ñ†  "; }
+
+ul.lst-kix_mojxo9trbjfh-1 { list-style-type: none; }
+
+.lst-kix_bqkjyd6tluvl-3 > li::before { content: "‚óè  "; }
+
+.lst-kix_ys4ar8rp1l99-2 > li::before { content: "‚ñ†  "; }
+
+ul.lst-kix_mojxo9trbjfh-8 { list-style-type: none; }
+
+ul.lst-kix_mojxo9trbjfh-7 { list-style-type: none; }
+
+.lst-kix_ut6q3syfl9zb-7 > li::before { content: "‚óã  "; }
+
+ul.lst-kix_um7efih7xor7-5 { list-style-type: none; }
+
+ul.lst-kix_um7efih7xor7-6 { list-style-type: none; }
+
+ul.lst-kix_um7efih7xor7-7 { list-style-type: none; }
+
+ul.lst-kix_um7efih7xor7-8 { list-style-type: none; }
+
+.lst-kix_ys4ar8rp1l99-0 > li::before { content: "‚óè  "; }
+
+ol.lst-kix_23eqzscjysbu-5.start { counter-reset: lst-ctn-kix_23eqzscjysbu-5 0; }
+
+ul.lst-kix_um7efih7xor7-0 { list-style-type: none; }
+
+ul.lst-kix_um7efih7xor7-1 { list-style-type: none; }
+
+ul.lst-kix_um7efih7xor7-2 { list-style-type: none; }
+
+ul.lst-kix_um7efih7xor7-3 { list-style-type: none; }
+
+.lst-kix_ut6q3syfl9zb-3 > li::before { content: "‚óè  "; }
+
+ul.lst-kix_um7efih7xor7-4 { list-style-type: none; }
+------MultipartBoundary--qeaM3XiRG00DmfUnsAzXw5nTkgZFHzfG4fHAIUwkWT----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://ssl.gstatic.com/docs/common/mobileweb_sprite1.png
+
+âPNG
+
+   IHDR   $   ú   ô	Ä  	UIDAThﬁÌ[[lW˛ŒôŸõ«nù∏8Ik'm\ö*V“EBj∏51/T¢5⁄P•†ZÂ&—áJ·	Ñ*cÇh§ ‹ÄÄBõÚ¬Â)I+îìÊ!†ÜÑXNH”brÒ:ÔÆwÊ¸<ÏmvvŒÃ9«ìx#ˆè6û=s˚Êˇ˛ˇ?Á|{h2ca;á~ˇΩ˛i7◊GBTèDTŸvI‘∂ßzﬁ∆ˆèl ≈
+hÛÔæΩ„b~f Ñ“Ωâ*[•∂
+>*>ªzÀÖ€¶ªzû,Ë‚≤Û3?0u˙≤∂%K/›ö=±sl,  ùÔòXGf—™‰⁄éÍÇí"™ÅÒ“‘∑UË
+≤L*›üπ∑˝∞(9 œ?/ò(áëœ•…db}€ΩÌáTAq(‹¿& c~≥ˆ@ÚûÃ∏
+(Æ$LáDÉ«“©Ù:ª?slxt4eHY˝'L];ˇòöé©tzMÁ∆Œ…Ìc;•û≤#)Û˘ ä>b¿¡s«{SSËL.#Ç®T<∆@†ÂóS˘c Ó“$ÿTæ±À	«ù)Ï9∞ú0*e,•öOk¥=DíDAiÔ?ñ3àÃb‡é'_	 OåP&˜^`–W⁄XÈ?—nÅf0«[◊ò> 2†P_"cÅÂ‡T¸dà"©$ç`i6' WjîE≈íF≠	V*4Æ†  ‡ì+7I˚æ œÓ;Ûf˝ı,òRlﬂxL´◊ﬂwÊMœ√ï=f13 dt˝b‚ ˆûzΩ˙˝ÖM€ ﬂ©Í°Ì}b˚Í-ç`"@õ2 ò)Êq.w©JQ¡- ﬁôΩX=Ór1/c‘aOÚÃ⁄≠xfÌ÷ÜˆÔ
+x Ωû≠”èUÏÁßbÔƒ¡Í˛ë˚ü¯˙¯Xıº'Wo¡}ÜfÂºÎPÂb3≈\=~ *«»kULi_±·˛mÓﬂ÷pÏIe≤Îå=$∑Ωß‡•S5 ~∏È ÄØçˇ¨zÃÁ≤ÃS0McHˆ§^ ‡°Ï‹Ï≈Z&:9≠	¡¸([ª√k∑5¥ü|¯«°±8Ø¥ó=ÀÆ˛I¯$;©=®e?:˛áHoFy≈,ÀF≤XQcC°7 aóñNÉÑ#≤Q3ZøGH:ß£˙È9—%m@	ÿ√äƒ¶™è8ÙU#¡™˚'èı⁄ñ’KÇòN‡{≈´∫vF¬±01ÛïﬂúFÀÆá∆¯¸ØÛ˝”≥N,PcºT^ñ>z_€˛°Õ<^çÒKªØÓ»òGcÙ§5yõÍ€â›g_∏”IˆÚ¯4∆È9f¶1·÷≈|ÈY˚⁄â±±…¯4FFÛ”ó,N≠¢ï›GuA)jåUX°õ…d˝º˜ˆ√:†î´∫õí∫8A$lkΩµÍ∂C™†¢5∆ 0‘'Ö µSˆ [Ÿ=Æä+	Ñ√ç≠âtbù≥bŸ±——ìfcPg%„˚˛ØwÊì°-ì\c≠Ìô‹‚)m¡*
+¿Ò÷È"Œ˝Á<⁄”%i™∫è1 l˘ïB Dc™1ñµ(‚ﬁÀ/¬ôÛ3s˘íbÊŒôâ∆4 „ C≤£≈kW!úBUÙde•6Vçú‚—√ $∑£ò∑ ú9•iæ˙òö¬ÎMX\Ÿ©\∆AN1BaÛ©>ï˛ŸO¶ \'¥;2£LVá(\ïÂv" ]LeÉŸ6 \ƒñeø| ’ÍıávÛ∆$`ñ©`’hØΩ≈’ Ç)Ã…ÙgÆºzÑEN©2’Ëˇå≥ÏW_V£¨nh∑ß∆ÿh˚ép…~`·µ*û,#ºrDvÏN¬jU,b√ÀO-a‚—-≠ß∂S‘T?õ¢®ÎÃ+®%ˆ ﬂòqw2Øíù˘Ú”—Yˆ»ãñ<÷#jëe\˝(‹É±Pˆ€ TºbC§1ˇBD¨P1§<É&Õ è∏x»‹ûeUßGçcH∂‡¿@cd≈¬p√Õ	c#ê†‘g≈93çÒ#;≥Ω∞ù^K@Kct$„ ¨π‘ƒÎﬂø••1∂¨©Ì Æi0yOÜÔZh@œî§ëÖÚÃ„ÂÌÁ}Ä..M.Ä'|†f|ÏFÇÙ≈å‘s∆ÍÒMìÃÇ–¥ÌfìkÅi0[o&0ø—È›T`–l` Û–B'ö
+LÀZfb°S‰¸·¡~ß8›«XÌ'7"œÍlÔ∂[S÷⁄“ﬁœ7èƒªˆ„ÍÅı;ò3µßA6 ˇØ˘ıÌÇÄƒ˚øx·ﬂgWÙ‹5¯l|k?X·øFk?H <≥tÈÌwº{‚@».⁄Ä`Qg§∫bÈdÁ™ÅMÏ®.(]#·£%@ëËm©TˇÜ¨√ì† ˘¡DÆpÙy*±æÎÉâC™û‚—AA`¢÷À¯ËKÅÅ˚Ÿ∏äß∏ê0A+>Ö”p^[:πnŸ∆‚±?éßb†,
+LÌ/c@·“±¿+&3ã÷lﬁíû<0∂]Í)·úÇøKhd œˇ¶ŒVWmI7+Ìc\,øª˚≤˛⁄)êê¨ï<d[.“Ù6f≥NÆ¥•≤‚ì	ÁXc‡!˘M£⁄‚ O$∫ÄπÀÄ[`uûa/+{ÉBºVæ)+ıKÈBÒAôJBÜ˝<Eˇµ€néPJ>„Á›ÆP*?Z/0«p≈πu|‘æ¨≤UB)Å]˘+ê˝Kç∆î 8s„Úƒ›?¨åZó+r`áÔ¨ªûe√M≤‘∂2ÍCû©ˇy∏|MfS&9—ΩÊÃÑüi/¨%⁄ù≥fPó'ΩªÏÏ«’Ω¬µÚ[=ﬂå»¬X≤Ã?VÚ/$ 5Íc•,àb1ùØáÍﬁHàÍB¬ˆSÃÔó»øˆEΩª°ÿ+5@Ô{
+Ë˛4(‰≤:Ω¶]©<«€A…vùìî„RcƒX˛àº˙,T‰"˙ª*5?˛9P˚µæLFÿÃ!≠…Äe,˚Xˆçx#ÚÃ—ıf(∂iíuæ—uÈ:dô˙@No¶.6≤°Ûµ¿yv-u5à‰BÌáS‡√7§± ∫E√˜À≤Ø¶zÙÇ≈≥ˆÉÑ+l`‚ñœ‡tK+lYÀ$ˆùÚßi¿Ä"Ä{ö	Ãßö	Ã#-00è6ßô¿ò~Êe7ây)jÅjÅ˙ u›:W[  o∑Fb-kV˚ù`ac%`    IENDÆB`Ç
+------MultipartBoundary--qeaM3XiRG00DmfUnsAzXw5nTkgZFHzfG4fHAIUwkWT----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://fonts.googleapis.com/css?family=Google+Sans
+
+@charset "utf-8";
+
+@font-face { font-family: "Google Sans"; font-style: normal; font-weight: 400; src: url("https://fonts.gstatic.com/s/googlesans/v70/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJl1pynAESo4b4o.woff2") format("woff2"); unicode-range: U+308, U+530-58F, U+2010, U+2024, U+25CC, U+FB13-FB17; }
+
+@font-face { font-family: "Google Sans"; font-style: normal; font-weight: 400; src: url("https://fonts.gstatic.com/s/googlesans/v70/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJl3pynAESo4b4o.woff2") format("woff2"); unicode-range: U+951-952, U+964-965, U+980-9FE, U+1CD0, U+1CD2, U+1CD5-1CD6, U+1CD8, U+1CE1, U+1CEA, U+1CED, U+1CF2, U+1CF5-1CF7, U+200C-200D, U+20B9, U+25CC, U+A8F1; }
+
+@font-face { font-family: "Google Sans"; font-style: normal; font-weight: 400; src: url("https://fonts.gstatic.com/s/googlesans/v70/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlKpynAESo4b4o.woff2") format("woff2"); unicode-range: U+2C7, U+2D8-2D9, U+2DB, U+307, U+1400-167F, U+18B0-18F5, U+25CC, U+11AB0-11ABF; }
+
+@font-face { font-family: "Google Sans"; font-style: normal; font-weight: 400; src: local("Google Sans Regular"), local("GoogleSans-Regular"), url("https://fonts.gstatic.com/s/googlesans/v70/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlopynAESo4b4o.woff2") format("woff2"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: "Google Sans"; font-style: normal; font-weight: 400; src: local("Google Sans Regular"), local("GoogleSans-Regular"), url("https://fonts.gstatic.com/s/googlesans/v70/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlhpynAESo4b4o.woff2") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: "Google Sans"; font-style: normal; font-weight: 400; src: url("https://fonts.gstatic.com/s/googlesans/v70/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlkpynAESo4b4o.woff2") format("woff2"); unicode-range: U+900-97F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+20F0, U+25CC, U+A830-A839, U+A8E0-A8FF, U+11B00-11B09; }
+
+@font-face { font-family: "Google Sans"; font-style: normal; font-weight: 400; src: url("https://fonts.gstatic.com/s/googlesans/v70/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJl0pynAESo4b4o.woff2") format("woff2"); unicode-range: U+30E, U+1200-1399, U+2D80-2DDE, U+AB01-AB2E, U+1E7E0-1E7E6, U+1E7E8-1E7EB, U+1E7ED-1E7EE, U+1E7F0-1E7FE; }
+
+@font-face { font-family: "Google Sans"; font-style: normal; font-weight: 400; src: url("https://fonts.gstatic.com/s/googlesans/v70/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJl6pynAESo4b4o.woff2") format("woff2"); unicode-range: U+589, U+10A0-10FF, U+1C90-1CBA, U+1CBD-1CBF, U+205A, U+2D00-2D2F, U+2E31; }
+
+@font-face { font-family: "Google Sans"; font-style: normal; font-weight: 400; src: local("Google Sans Regular"), local("GoogleSans-Regular"), url("https://fonts.gstatic.com/s/googlesans/v70/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlppynAESo4b4o.woff2") format("woff2"); unicode-range: U+1F00-1FFF; }
+
+@font-face { font-family: "Google Sans"; font-style: normal; font-weight: 400; src: local("Google Sans Regular"), local("GoogleSans-Regular"), url("https://fonts.gstatic.com/s/googlesans/v70/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlmpynAESo4b4o.woff2") format("woff2"); unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: "Google Sans"; font-style: normal; font-weight: 400; src: url("https://fonts.gstatic.com/s/googlesans/v70/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJl-pynAESo4b4o.woff2") format("woff2"); unicode-range: U+951-952, U+964-965, U+A80-AFF, U+200C-200D, U+20B9, U+25CC, U+A830-A839; }
+
+@font-face { font-family: "Google Sans"; font-style: normal; font-weight: 400; src: url("https://fonts.gstatic.com/s/googlesans/v70/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlGpynAESo4b4o.woff2") format("woff2"); unicode-range: U+951-952, U+964-965, U+A01-A76, U+200C-200D, U+20B9, U+25CC, U+262C, U+A830-A839; }
+
+@font-face { font-family: "Google Sans"; font-style: normal; font-weight: 400; src: local("Google Sans Regular"), local("GoogleSans-Regular"), url("https://fonts.gstatic.com/s/googlesans/v70/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlnpynAESo4b4o.woff2") format("woff2"); unicode-range: U+307-308, U+590-5FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F; }
+
+@font-face { font-family: "Google Sans"; font-style: normal; font-weight: 400; src: url("https://fonts.gstatic.com/s/googlesans/v70/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlupynAESo4b4o.woff2") format("woff2"); unicode-range: U+1780-17FF, U+19E0-19FF, U+200C-200D, U+25CC; }
+
+@font-face { font-family: "Google Sans"; font-style: normal; font-weight: 400; src: url("https://fonts.gstatic.com/s/googlesans/v70/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlspynAESo4b4o.woff2") format("woff2"); unicode-range: U+E81-EDF, U+200C-200D, U+25CC; }
+
+@font-face { font-family: "Google Sans"; font-style: normal; font-weight: 400; src: url("https://fonts.gstatic.com/s/googlesans/v70/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJl9pynAESo4b4o.woff2") format("woff2"); unicode-range: U+307, U+323, U+951-952, U+964-965, U+D00-D7F, U+1CDA, U+1CF2, U+200C-200D, U+20B9, U+25CC, U+A830-A832; }
+
+@font-face { font-family: "Google Sans"; font-style: normal; font-weight: 400; src: url("https://fonts.gstatic.com/s/googlesans/v70/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJl8pynAESo4b4o.woff2") format("woff2"); unicode-range: U+951-952, U+964-965, U+B01-B77, U+1CDA, U+1CF2, U+200C-200D, U+20B9, U+25CC; }
+
+@font-face { font-family: "Google Sans"; font-style: normal; font-weight: 400; src: url("https://fonts.gstatic.com/s/googlesans/v70/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJl4pynAESo4b4o.woff2") format("woff2"); unicode-range: U+964-965, U+D81-DF4, U+1CF2, U+200C-200D, U+25CC, U+111E1-111F4; }
+
+@font-face { font-family: "Google Sans"; font-style: normal; font-weight: 400; src: url("https://fonts.gstatic.com/s/googlesans/v70/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJkLpynAESo4b4o.woff2") format("woff2"); unicode-range: U+1-C, U+E-1F, U+7F-9F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219, U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U+2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-1F1AD, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F32C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F47D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F7FF, U+1F800-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+1F8B0-1F8BB, U+1F8C0-1F8C1, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F996, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FA89, U+1FA8F-1FAC6, U+1FACE-1FADC, U+1FADF-1FAE9, U+1FAF0-1FAF8, U+1FB00-1FBFF; }
+
+@font-face { font-family: "Google Sans"; font-style: normal; font-weight: 400; src: url("https://fonts.gstatic.com/s/googlesans/v70/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlzpynAESo4b4o.woff2") format("woff2"); unicode-range: U+964-965, U+B82-BFA, U+200C-200D, U+20B9, U+25CC; }
+
+@font-face { font-family: "Google Sans"; font-style: normal; font-weight: 400; src: url("https://fonts.gstatic.com/s/googlesans/v70/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJl5pynAESo4b4o.woff2") format("woff2"); unicode-range: U+951-952, U+964-965, U+C00-C7F, U+1CDA, U+1CF2, U+200C-200D, U+25CC; }
+
+@font-face { font-family: "Google Sans"; font-style: normal; font-weight: 400; src: url("https://fonts.gstatic.com/s/googlesans/v70/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlxpynAESo4b4o.woff2") format("woff2"); unicode-range: U+2D7, U+303, U+331, U+E01-E5B, U+200C-200D, U+25CC; }
+
+@font-face { font-family: "Google Sans"; font-style: normal; font-weight: 400; src: local("Google Sans Regular"), local("GoogleSans-Regular"), url("https://fonts.gstatic.com/s/googlesans/v70/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlqpynAESo4b4o.woff2") format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "Google Sans"; font-style: normal; font-weight: 400; src: local("Google Sans Regular"), local("GoogleSans-Regular"), url("https://fonts.gstatic.com/s/googlesans/v70/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlrpynAESo4b4o.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Google Sans"; font-style: normal; font-weight: 400; src: local("Google Sans Regular"), local("GoogleSans-Regular"), url("https://fonts.gstatic.com/s/googlesans/v70/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJllpynAESo4.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+------MultipartBoundary--qeaM3XiRG00DmfUnsAzXw5nTkgZFHzfG4fHAIUwkWT----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-a7710ed6-90b3-4cdf-9015-af6a2d7af064@mhtml.blink
+
+@charset "utf-8";
+
+@import url("https://fonts.googleapis.com/css?family=Google+Sans");
+
+.docs-ml-promotion { z-index: 1002; }
+
+.docs-ml-header { z-index: 1; }
+
+.docs-ml-icon { direction: ltr; display: inline-block; text-align: left; overflow: hidden; position: relative; vertical-align: middle; }
+
+.docs-ml-img::before { content: url("https://ssl.gstatic.com/docs/common/mobileweb_sprite1.png"); }
+
+.docs-ml-img-container { height: 156px; position: absolute; width: 36px; }
+
+.docs-ml-docs-logo-icon { left: 0px; top: -36px; }
+
+.docs-ml-sheets-logo-icon { left: 0px; top: 0px; }
+
+.docs-ml-slides-logo-icon { left: 0px; top: -96px; }
+
+.docs-ml-arrow-back-icon { left: 0px; top: -132px; }
+
+.docs-ml-edit-icon { left: 0px; top: -72px; }
+
+@media screen and (-webkit-min-device-pixel-ratio: 2) {
+  .docs-ml-img { content: url("https://ssl.gstatic.com/docs/common/mobileweb_sprite1.png"); }
+  .docs-ml-img-container { height: 156px; position: absolute; width: 36px; }
+  .docs-ml-docs-logo-icon { left: 0px; top: -36px; }
+  .docs-ml-sheets-logo-icon { left: 0px; top: 0px; }
+  .docs-ml-slides-logo-icon { left: 0px; top: -96px; }
+  .docs-ml-arrow-back-icon { left: 0px; top: -132px; }
+  .docs-ml-edit-icon { left: 0px; top: -72px; }
+}
+
+.docs-ml-header { background: var(--gm3-sys-color-surface-container-low,#f8fafd); border-bottom: 1px solid var(--gm3-sys-color-outline-variant,#c4c7c5); box-shadow: 0 1px 1px color-mix(in sRGB,var(--gm3-sys-color-shadow,#000) 10%,transparent); box-sizing: border-box; font-family: "Google Sans", Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif; padding: 4px 0px; position: fixed; left: 0px; top: 0px; width: 100%; }
+
+.docs-ml-header-icon { height: 24px; opacity: 0.6; width: 24px; }
+
+.docs-ml-header-icon-container { padding: 12px; }
+
+.docs-ml-header-item { display: inline-block; vertical-align: middle; }
+
+.docs-ml-header-drive-link { padding-left: 4px; }
+
+body[dir="rtl"] .docs-ml-arrow-back-dir { transform: scaleX(-1); }
+
+.docs-ml-header-document-title { box-sizing: border-box; line-height: 1.5rem; padding: 0px 12px; width: calc(100% - 104px); }
+
+.docs-ml-header-document-title-text { font-size: 20px; font-weight: 500; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+.docs-ml-header-edit-button { float: right; padding-right: 4px; }
+
+.docs-ml-promotion { background: var(--gm3-sys-color-surface,#fff); bottom: 0px; box-shadow: 0 4px 12px color-mix(in sRGB,var(--gm3-sys-color-shadow,#000) 40%,transparent); font-family: Arial, Helvetica, sans-serif; left: 0px; position: fixed; width: 100%; }
+
+.docs-ml-promotion-off-screen { transform: translateY(100%); }
+
+.docs-ml-promotion-shown { transform: translateY(0px); transition: transform 333ms cubic-bezier(0.4, 0, 0.2, 1); }
+
+.docs-ml-promotion-dismissed { transform: translateY(100%); box-shadow: none; }
+
+.docs-ml-promotion-no-horizontal-scroll { overflow-x: hidden; }
+
+.docs-ml-promotion-header { display: table; padding: 24px 24px 0px; }
+
+.docs-ml-promotion-app-icon-container { display: table-cell; }
+
+.docs-ml-promotion-app-icon { height: 36px; width: 36px; }
+
+@media (min-width: 600px) {
+  .docs-ml-promotion-app-icon { transform: scale(1.33); }
+}
+
+.docs-ml-promotion-text { display: table-cell; padding-left: 20px; vertical-align: top; }
+
+.docs-ml-promotion-text-heading { color: var(--gm3-sys-color-on-surface,#1f1f1f); font-size: 1rem; font-weight: 700; padding-bottom: 7px; }
+
+.docs-ml-promotion-text-body { color: var(--gm3-sys-color-on-surface,#1f1f1f); font-size: 0.875rem; }
+
+.docs-ml-promotion-action-row { float: right; margin-top: 6px; padding: 8px 24px; }
+
+.docs-ml-promotion-action-row-desktop { margin-top: 6px; }
+
+.docs-ml-promotion-action-container { display: inline-block; height: 48px; margin: 6px 4px; vertical-align: middle; }
+
+.docs-ml-promotion-action-button { display: inline-block; font-size: 0.875rem; font-weight: 500; padding: 9px 12px; vertical-align: middle; }
+
+.docs-ml-promotion-action-button-wrapper:focus { outline-color: var(--gm3-sys-color-outline-variant,#c4c7c5); }
+
+.docs-ml-promotion-action-button.docs-ml-promotion-yes-button { background-color: var(--gm3-sys-color-primary,#0b57d0); border-radius: 4px; color: var(--gm3-sys-color-on-primary,#fff); border: 1px solid transparent; }
+
+.docs-ml-promotion-action-button.docs-ml-promotion-yes-button:active { background-color: color-mix(in srgb,var(--gm3-sys-color-on-primary,#fff) 10%,var(--gm3-sys-color-primary,#0b57d0)); }
+
+.docs-ml-promotion-action-button.docs-ml-promotion-no-button { background-color: var(--gm3-sys-color-surface-container-low,#f8fafd); color: var(--gm3-sys-color-on-surface-variant,#444746); border-radius: 4px; border: 1px solid var(--gm3-sys-color-outline-variant,#c4c7c5); }
+
+.docs-ml-promotion-action-button.docs-ml-promotion-no-button:active { background-color: color-mix(in srgb,var(--gm3-sys-color-on-surface,#1f1f1f) 10%,var(--gm3-sys-color-surface-container-low,#f8fafd)); }
+
+.docs-ml-promotion.desktop { text-align: center; }
+
+@media (orientation: portrait) {
+  .docs-ml-promotion.desktop { padding-top: 56px; padding-bottom: 80px; }
+}
+
+@media (orientation: landscape) {
+  .docs-ml-promotion.desktop { padding-top: 36px; padding-bottom: 56px; }
+}
+
+.docs-ml-promotion-heading-desktop { font-family: "Google Sans"; font-size: 18px; font-weight: 700; color: var(--gm3-sys-color-on-surface,#1f1f1f); padding-top: 18px; padding-bottom: 10px; line-height: 1.5; max-width: 360px; margin: 0px auto; }
+
+@media (orientation: landscape) {
+  .docs-ml-promotion-heading-desktop { padding-top: 0px; max-width: none; }
+}
+
+.docs-ml-promotion-text-body-desktop { font-size: 0.875rem; line-height: 1.5; color: var(--gm3-sys-color-on-surface-variant,#444746); padding-bottom: 10px; }
+
+.docs-icon.docs-ml-promotion-desktop-icon { height: 40px; width: 40px; transform: scale(2.5); transform-origin: center top; }
+
+.docs-icon-ml-promotion-icon-container-desktop { height: 100px; width: 100px; margin-left: auto; margin-right: auto; }
+
+@media (orientation: landscape) {
+  .docs-icon-ml-promotion-icon-container-desktop { display: inline-block; vertical-align: top; }
+  .docs-ml-promotion-description-desktop { display: inline-block; vertical-align: top; text-align: left; padding-left: 39px; max-width: 645px; }
+}
+
+@media (orientation: landscape) {
+  .docs-ml-promotion-action-row-desktop { margin-left: -8px; }
+}
+
+.docs-ml-promotion-action-row-desktop .docs-ml-promotion-action-container { margin: 6px 8px; font-family: "Google Sans"; }
+
+.docs-ml-promotion-action-row-desktop .docs-ml-promotion-action-button-wrapper:focus { outline: none; }
+
+.docs-ml-promotion-action-button.docs-ml-promotion-yes-button.docs-ml-promotion-app-themed { border-radius: 4px; box-shadow: none; box-sizing: border-box; font-family: "Google Sans", Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-weight: 500; font-size: 0.875rem; height: 36px; letter-spacing: 0.25px; line-height: 1rem; padding: 9px 24px 11px; background: var(--gm3-sys-color-primary,#0b57d0); color: var(--gm3-sys-color-on-primary,#fff); border: 1px solid transparent !important; }
+
+.docs-ml-promotion-action-button.docs-ml-promotion-no-button.docs-ml-promotion-app-themed { border-radius: 4px; box-shadow: none; box-sizing: border-box; font-family: "Google Sans", Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-weight: 500; font-size: 0.875rem; height: 36px; letter-spacing: 0.25px; line-height: 1rem; padding: 9px 24px 11px; background: var(--gm3-sys-color-surface,#fff); color: var(--gm3-sys-color-primary,#0b57d0); border: 1px solid var(--gm3-sys-color-outline-variant,#c4c7c5) !important; }
+
+.docs-ml-promotion-action-button-wrapper:focus .docs-ml-promotion-action-button.docs-ml-promotion-yes-button.docs-ml-promotion-app-themed { color: var(--gm3-sys-color-on-primary,#fff); background: linear-gradient(rgba(var(--gm3-sys-color-on-primary-rgb,255,255,255),.1),rgba(var(--gm3-sys-color-on-primary-rgb,255,255,255),.1)),var(--gm3-sys-color-primary,#0b57d0); box-shadow: 0 1px 3px 1px rgba(var(--gm3-sys-color-primary-rgb,11,87,208),.15); }
+
+.docs-ml-promotion-action-button-wrapper:focus .docs-ml-promotion-action-button.docs-ml-promotion-no-button.docs-ml-promotion-app-themed { border-radius: 4px; box-shadow: none; box-sizing: border-box; font-family: "Google Sans", Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-weight: 500; font-size: 0.875rem; height: 36px; letter-spacing: 0.25px; line-height: 1rem; padding: 9px 24px 11px; background: linear-gradient(rgba(var(--gm3-sys-color-on-primary-container-rgb,8,66,160),.1),rgba(var(--gm3-sys-color-on-primary-container-rgb,8,66,160),.1)),var(--gm3-sys-color-primary-container,#d3e3fd); border: 1px solid var(--gm3-sys-color-primary-container,#d3e3fd) !important; }
+
+.docsshared-no-download .docsshared-no-select-when-no-download, .docsshared-no-select { -webkit-user-drag: none; user-select: none; }
+
+.docsshared-disable-image-copy canvas, .docsshared-disable-image-copy image, .docsshared-disable-image-copy img { pointer-events: none; }
+------MultipartBoundary--qeaM3XiRG00DmfUnsAzXw5nTkgZFHzfG4fHAIUwkWT----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-a4734a7b-f8da-4691-b303-b94893e7e29d@mhtml.blink
+
+@charset "utf-8";
+
+html { overflow: auto; }
+
+body { margin: 0px; overflow: hidden; overflow-wrap: break-word; }
+
+.app-container { height: 100%; margin-top: 57px; overflow: auto; }
+
+.doc { padding: 20px 12px 0px; position: relative; }
+
+.doc .doc-content { margin: auto; padding: 24px 0px !important; max-width: 770px !important; }
+------MultipartBoundary--qeaM3XiRG00DmfUnsAzXw5nTkgZFHzfG4fHAIUwkWT------

@@ -265,8 +265,8 @@ export async function extractTextFromFile(
       });
 
       const page = await pdfDoc.getPage(i);
-      // Render at 2.0x scale for sharp OCR accuracy
-      const viewport = page.getViewport({ scale: 2.0 });
+      // Render at 1.5x scale (approx. 150-200 DPI) for optimal balance of OCR accuracy and fast on-device recognition
+      const viewport = page.getViewport({ scale: 1.5 });
       const canvas = document.createElement('canvas');
       canvas.width = viewport.width;
       canvas.height = viewport.height;

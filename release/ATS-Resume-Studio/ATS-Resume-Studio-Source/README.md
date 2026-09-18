@@ -35,6 +35,23 @@ Open [http://localhost:3000](http://localhost:3000) for the marketing landing pa
 
 ---
 
+## Deploy to Vercel
+
+The fastest way to deploy ATS Resume Studio publicly:
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fchotunoushaad%2Fresumegenerator)
+
+Or deploy via the CLI:
+
+```bash
+npm i -g vercel
+vercel --prod
+```
+
+No environment variables or secrets are needed. See [VERCEL-DEPLOYMENT.md](VERCEL-DEPLOYMENT.md) for the full step-by-step guide.
+
+---
+
 ## Available Scripts
 - `npm run dev`: Starts local development server on port 3000
 - `npm run build`: Compiles production Next.js build
