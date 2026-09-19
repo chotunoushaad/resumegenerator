@@ -393,19 +393,19 @@ export default function LandingPage() {
         </div>
       </section>
 
-      {/* Gumroad Support / Source Code Section */}
+      {/* Gumroad Resume Kit Section */}
       <section className="py-20 md:py-24 px-6 bg-[#F3EFE6] border-b border-stone-200">
         <div className="max-w-3xl mx-auto text-center space-y-6">
           <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-stone-200/80 border border-stone-300 text-stone-800 text-[11px] font-semibold uppercase tracking-wider">
-            Commercial &amp; White-Label License
+            Career &amp; Application Toolkit
           </div>
 
           <h2 className="font-serif text-3xl sm:text-4xl font-medium tracking-tight text-stone-950">
-            Get the Complete Resume Studio Source Code
+            Supercharge Your Job Search with Our Resume Kit
           </h2>
 
           <p className="text-sm sm:text-base text-stone-600 leading-relaxed max-w-xl mx-auto font-sans">
-            The web app is free to use. Developers, agencies, career coaches, and entrepreneurs can purchase the complete source-code bundle with commercial and white-label rights on Gumroad.
+            The web tool is free to use forever. For specialized resume templates, tailored cover letter formulas, proven examples, ATS checklists, and application trackers, explore our complete Resume Kit on Gumroad.
           </p>
 
           <div className="pt-2 flex flex-col items-center justify-center gap-3">
@@ -413,14 +413,14 @@ export default function LandingPage() {
               href={GUMROAD_PRODUCT_URL}
               target="_blank"
               rel="noopener noreferrer"
-              aria-label="GET THE SOURCE CODE ON GUMROAD — $29 (opens in a new tab)"
+              aria-label="View our Resume Kit on Gumroad (opens in a new tab)"
               className="w-full sm:w-auto inline-flex items-center justify-center gap-2 bg-stone-900 hover:bg-stone-800 text-white px-8 py-4 rounded-lg text-xs uppercase tracking-wider font-semibold transition-all shadow-md hover:shadow-lg focus:outline-none focus-visible:ring-2 focus-visible:ring-stone-900 focus-visible:ring-offset-2 active:scale-[0.99]"
             >
-              <span>GET THE SOURCE CODE ON GUMROAD — $29</span>
+              <span>VIEW OUR RESUME KIT ON GUMROAD</span>
               <ArrowRight className="w-4 h-4 text-white" aria-hidden="true" />
             </a>
             <span className="text-[11px] text-stone-500 font-medium">
-              One-time payment • Lifetime commercial rights • Instant digital download
+              Instant digital download • ATS checklists &amp; templates • Zero subscription fees
             </span>
           </div>
         </div>
