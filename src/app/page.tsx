@@ -21,6 +21,7 @@ import { CATEGORIES, TEMPLATES } from '@/lib/templates-config';
 import { TemplateCategory, TemplateId } from '@/types/template';
 import { SAMPLE_DATA } from '@/lib/sample-data';
 import { ResumePreview } from '@/components/preview/ResumePreview';
+import { GUMROAD_PRODUCT_URL } from '@/lib/config';
 
 export default function LandingPage() {
   const [activePreviewCat, setActivePreviewCat] = useState<TemplateCategory>('corporate');
@@ -393,24 +394,34 @@ export default function LandingPage() {
       </section>
 
       {/* Gumroad Support / Source Code Section */}
-      <section className="py-16 px-6 bg-[#F3EFE6] border-b border-stone-200">
+      <section className="py-20 md:py-24 px-6 bg-[#F3EFE6] border-b border-stone-200">
         <div className="max-w-3xl mx-auto text-center space-y-6">
-          <h2 className="font-serif text-2xl sm:text-3xl font-medium text-stone-900">
-            Want to Support the Project or Self-Host?
+          <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-stone-200/80 border border-stone-300 text-stone-800 text-[11px] font-semibold uppercase tracking-wider">
+            Commercial &amp; White-Label License
+          </div>
+
+          <h2 className="font-serif text-3xl sm:text-4xl font-medium tracking-tight text-stone-950">
+            Get the Complete Resume Studio Source Code
           </h2>
-          <p className="text-xs sm:text-sm text-stone-600 leading-relaxed max-w-xl mx-auto">
-            The web tool is free to use forever. If you are an agency, career coach, or developer who wants the full clean source code with commercial writing rights, grab the bundle on Gumroad.
+
+          <p className="text-sm sm:text-base text-stone-600 leading-relaxed max-w-xl mx-auto font-sans">
+            The web app is free to use. Developers, agencies, career coaches, and entrepreneurs can purchase the complete source-code bundle with commercial and white-label rights on Gumroad.
           </p>
-          <div className="pt-2">
+
+          <div className="pt-2 flex flex-col items-center justify-center gap-3">
             <a
-              href="https://gumroad.com"
+              href={GUMROAD_PRODUCT_URL}
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-flex items-center gap-2 bg-stone-900 hover:bg-stone-800 text-white px-6 py-3 rounded-lg text-xs uppercase tracking-wider font-semibold transition-all shadow-sm"
+              aria-label="GET THE SOURCE CODE ON GUMROAD — $29 (opens in a new tab)"
+              className="w-full sm:w-auto inline-flex items-center justify-center gap-2 bg-stone-900 hover:bg-stone-800 text-white px-8 py-4 rounded-lg text-xs uppercase tracking-wider font-semibold transition-all shadow-md hover:shadow-lg focus:outline-none focus-visible:ring-2 focus-visible:ring-stone-900 focus-visible:ring-offset-2 active:scale-[0.99]"
             >
-              <span>Get Source Code License on Gumroad ($29)</span>
-              <ArrowRight className="w-4 h-4" />
+              <span>GET THE SOURCE CODE ON GUMROAD — $29</span>
+              <ArrowRight className="w-4 h-4 text-white" aria-hidden="true" />
             </a>
+            <span className="text-[11px] text-stone-500 font-medium">
+              One-time payment • Lifetime commercial rights • Instant digital download
+            </span>
           </div>
         </div>
       </section>
