@@ -408,7 +408,7 @@ export default function LandingPage() {
             The web tool is free to use forever. For specialized resume templates, tailored cover letter formulas, proven examples, ATS checklists, and application trackers, explore our complete Resume Kit on Gumroad.
           </p>
 
-          <div className="pt-2 flex flex-col items-center justify-center gap-3">
+          <div className="pt-2">
             <a
               href={GUMROAD_PRODUCT_URL}
               target="_blank"
@@ -419,9 +419,6 @@ export default function LandingPage() {
               <span>VIEW OUR RESUME KIT ON GUMROAD</span>
               <ArrowRight className="w-4 h-4 text-white" aria-hidden="true" />
             </a>
-            <span className="text-[11px] text-stone-500 font-medium">
-              Instant digital download • ATS checklists &amp; templates • Zero subscription fees
-            </span>
           </div>
         </div>
       </section>
