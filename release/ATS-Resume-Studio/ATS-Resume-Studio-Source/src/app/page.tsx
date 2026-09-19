@@ -88,6 +88,15 @@ export default function LandingPage() {
             <a href="#faq" className="hover:text-stone-950 transition-colors">
               FAQ
             </a>
+            <a
+              href={GUMROAD_PRODUCT_URL}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-amber-800 hover:text-amber-950 font-semibold flex items-center gap-1.5 transition-colors"
+            >
+              <Sparkles className="w-3.5 h-3.5 text-amber-600" />
+              <span>Resume Kit</span>
+            </a>
           </nav>
 
           <div className="flex items-center gap-3">
@@ -124,11 +133,23 @@ export default function LandingPage() {
           <div className="pt-4 flex flex-col sm:flex-row items-center justify-center gap-3.5">
             <Link
               href="/app"
-              className="w-full sm:w-auto bg-stone-900 hover:bg-stone-800 text-white px-7 py-3.5 rounded-lg text-sm font-semibold tracking-wide flex items-center justify-center gap-2 transition-all shadow-md hover:shadow-lg"
+              className="w-full sm:w-auto bg-stone-900 hover:bg-stone-800 text-white px-7 py-3.5 rounded-lg text-sm font-semibold tracking-wide flex items-center justify-center gap-2 transition-all shadow-md hover:shadow-lg active:scale-[0.99]"
             >
-              <span>Launch Resume Builder</span>
+              <span>Launch Free Builder</span>
               <ArrowRight className="w-4 h-4" />
             </Link>
+
+            <a
+              href={GUMROAD_PRODUCT_URL}
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="Get the complete Resume Kit on Gumroad (opens in a new tab)"
+              className="w-full sm:w-auto bg-amber-700 hover:bg-amber-800 text-white px-7 py-3.5 rounded-lg text-sm font-semibold tracking-wide flex items-center justify-center gap-2 transition-all shadow-md hover:shadow-lg ring-1 ring-amber-800/30 hover:ring-amber-900 active:scale-[0.99]"
+            >
+              <Sparkles className="w-4 h-4 text-amber-200 fill-amber-200/50" />
+              <span>Get Resume Kit on Gumroad</span>
+              <ArrowRight className="w-4 h-4 text-amber-200" />
+            </a>
 
             <a
               href="#templates"
